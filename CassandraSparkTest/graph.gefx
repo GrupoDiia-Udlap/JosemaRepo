@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+ <meta lastmodifieddate="26/06/17 06:37 PM">
+  <creator>GraphStream - org.graphstream.stream.file.FileSinkGEXF</creator>
+ </meta>
+ <graph defaultedgetype="undirected">
+  <nodes>
+   <node id="0"></node>
+   <node id="1"></node>
+   <node id="2"></node>
+   <node id="3"></node>
+   <node id="4"></node>
+   <node id="5"></node>
+   <node id="6"></node>
+   <node id="7"></node>
+   <node id="8"></node>
+   <node id="9"></node>
+   <node id="10"></node>
+   <node id="11"></node>
+   <node id="12"></node>
+   <node id="13"></node>
+   <node id="14"></node>
+   <node id="15"></node>
+   <node id="16"></node>
+   <node id="17"></node>
+   <node id="18"></node>
+   <node id="19"></node>
+   <node id="20"></node>
+   <node id="21"></node>
+   <node id="22"></node>
+   <node id="23"></node>
+   <node id="24"></node>
+   <node id="25"></node>
+   <node id="26"></node>
+   <node id="27"></node>
+   <node id="28"></node>
+   <node id="29"></node>
+   <node id="30"></node>
+  </nodes>
+  <edges>
+   <edge id="0_1" source="0" target="1"></edge>
+   <edge id="2_1" source="2" target="1"></edge>
+   <edge id="3_1" source="3" target="1"></edge>
+   <edge id="4_1" source="4" target="1"></edge>
+   <edge id="5_1" source="5" target="1"></edge>
+   <edge id="6_1" source="6" target="1"></edge>
+   <edge id="7_3" source="7" target="3"></edge>
+   <edge id="8_1" source="8" target="1"></edge>
+   <edge id="9_2" source="9" target="2"></edge>
+   <edge id="10_4" source="10" target="4"></edge>
+   <edge id="11_2" source="11" target="2"></edge>
+   <edge id="12_10" source="12" target="10"></edge>
+   <edge id="13_4" source="13" target="4"></edge>
+   <edge id="14_10" source="14" target="10"></edge>
+   <edge id="15_3" source="15" target="3"></edge>
+   <edge id="16_6" source="16" target="6"></edge>
+   <edge id="17_1" source="17" target="1"></edge>
+   <edge id="18_5" source="18" target="5"></edge>
+   <edge id="19_1" source="19" target="1"></edge>
+   <edge id="20_18" source="20" target="18"></edge>
+   <edge id="21_9" source="21" target="9"></edge>
+   <edge id="22_11" source="22" target="11"></edge>
+   <edge id="23_5" source="23" target="5"></edge>
+   <edge id="24_11" source="24" target="11"></edge>
+   <edge id="25_4" source="25" target="4"></edge>
+   <edge id="26_17" source="26" target="17"></edge>
+   <edge id="27_24" source="27" target="24"></edge>
+   <edge id="28_1" source="28" target="1"></edge>
+   <edge id="29_1" source="29" target="1"></edge>
+   <edge id="30_1" source="30" target="1"></edge>
+  </edges>
+ </graph>
+</gexf>
