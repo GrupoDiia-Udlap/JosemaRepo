@@ -1,0 +1,626 @@
+id_alumno,nombre,apellido,sexo,fecha_nacimiento,perfil_academico,especialidad,email,telefono,id_facebook,id_crea
+0,Florencia,Mejía,F,1989-02-01,licenciatura,docente,elvira.hernández@yahoo.com,924.776.302,30845450021040,3724475987
+1,Sancho,Castellanos,F,1982-03-05,licenciatura,docente,olivia.paredes@hotmail.com,949 973 084,10845058421553,1813195575
+2,Salvador,Meza,F,1988-03-22,licenciatura,docente,alicia.carreón@gmail.com,988 835 733,28348304880162,1880690317
+3,Elena,Ulloa,F,1980-10-09,licenciatura,docente,marcos.villareal@yahoo.com,997-820-413,89824252511066,1729429900
+4,Luisa,Reynoso,F,1980-03-24,licenciatura,docente,isabel.vela@yahoo.com,978 192 472,55204502881164,3160175533
+5,Jerónimo,Bahena,F,1988-11-25,licenciatura,docente,alfonso.ávila@gmail.com,998-938-136,53662928957212,5496254004
+6,Alicia,Cortés,M,1996-04-21,licenciatura,docente,pedro.cotto@yahoo.com,931 596 789,48026981932013,2268095279
+7,María Luisa,Marrero,F,1992-02-16,licenciatura,docente,barbara.delagarza@yahoo.com,943687869,19807661144504,9868451914
+8,Inés,Jimínez,F,1996-10-15,licenciatura,docente,octavio.esquivel@hotmail.com,962 022 806,62561279065986,1114352317
+9,Isabel,Sáenz,F,1994-09-02,licenciatura,docente,blanca.orosco@yahoo.com,998 402 345,50751760519317,3768887546
+10,Sergio,Abrego,F,1983-05-23,licenciatura,docente,elvira.echevarría@hotmail.com,917 137 655,81431738309451,8773759735
+11,Mateo,Castro,M,1990-07-30,licenciatura,docente,benjamín.zavala@hotmail.com,951572564,17589899907641,6206532636
+12,Sancho,Mateo,M,1984-08-19,licenciatura,docente,florencia.guajardo@yahoo.com,937.246.479,96735636194256,8787760847
+13,Andrea,Delgado,M,1990-12-12,licenciatura,docente,lucia.cervantes@yahoo.com,922.143.457,31169946697432,4153671825
+14,Virginia,Rivas,F,1995-03-29,licenciatura,docente,raquel.chávez@hotmail.com,936747546,40042067174565,6234257184
+15,Francisca,Figueroa,F,1992-12-03,licenciatura,docente,raúl.castellanos@yahoo.com,961964708,87920200855111,2773152105
+16,María Luisa,Alcala,F,1989-02-06,licenciatura,docente,gabriela.jaramillo@gmail.com,951.448.993,81905589066051,6525666158
+17,Silvia,Salcedo,F,1996-12-01,licenciatura,docente,caridad.melgar@gmail.com,999-696-889,96007446584660,5006245658
+18,Octavio,Arreola,M,1991-04-15,licenciatura,docente,maría.gaona@gmail.com,969498382,65367946921261,7747051503
+19,Mateo,Ulibarri,M,1994-08-27,licenciatura,docente,berta.solís@gmail.com,957409953,44490245000402,6041602644
+20,Clara,Carrasquillo,F,1982-03-13,licenciatura,docente,claudia.rendón@gmail.com,954 600 565,60840810866812,2741465675
+21,Beatriz,Toledo,M,1987-01-29,licenciatura,docente,lucas.segovia@hotmail.com,920 960 433,65762538051294,8870958634
+22,Joaquín,Bermúdez,M,1996-01-06,licenciatura,docente,jorge.baca@hotmail.com,903.806.185,24299372252995,8209748410
+23,Gabriela,Matías,M,1994-09-21,licenciatura,docente,miguel.calvillo@hotmail.com,920767250,30359093697313,6819938228
+24,Alicia,Alfaro,M,1981-01-06,licenciatura,docente,diana.lemus@gmail.com,958-915-137,91599759017329,5236066913
+25,Rosario,Padilla,F,1997-10-08,licenciatura,docente,sergio.olmos@gmail.com,927-856-001,78043414454564,9564050263
+26,María Cristina,Limón,M,1980-09-11,licenciatura,docente,felipe.palacios@yahoo.com,969-784-118,91695427927574,5841113384
+27,Gustavo,Gaitán,F,1981-04-07,licenciatura,docente,amalia.varela@gmail.com,925 197 393,72198076055528,3713297479
+28,María Eugenia,Rojas,M,1987-09-15,licenciatura,docente,maría cristina.báez@gmail.com,995-920-389,92446539222070,6696173143
+29,Ramiro,Galván,F,1985-08-07,licenciatura,docente,cristobal.elizondo@gmail.com,934 062 856,47507796094052,6413298448
+30,David,Raya,F,1989-09-29,licenciatura,docente,vicente.monroy@yahoo.com,922879941,12450417669263,5329841851
+31,Jacobo,Briones,M,1989-01-15,licenciatura,docente,luz.cisneros@hotmail.com,977-972-520,18346290246810,8128713251
+32,Luz,Perales,F,1981-05-04,licenciatura,docente,gerardo.montoya@gmail.com,935 073 802,97088073413374,9248612390
+33,Lilia,Becerra,F,1991-01-13,licenciatura,docente,gonzalo.zapata@hotmail.com,979-017-111,35281877521245,1556633010
+34,Emilio,Contreras,F,1979-11-01,licenciatura,docente,miguel.arriaga@hotmail.com,922.503.207,65593952418667,1604433803
+35,Raquel,Carmona,F,1990-05-31,licenciatura,docente,olivia.fierro@gmail.com,945148679,41714529558785,6940126317
+36,Amalia,Luna,F,1991-03-15,licenciatura,docente,maría.olvera@yahoo.com,954-593-396,88625054840157,7666691068
+37,Carmen,Caraballo,F,1986-05-06,licenciatura,docente,gregorio.delarosa@gmail.com,997779589,11692124544903,8201646296
+38,Alicia,Naranjo,M,1993-06-11,licenciatura,docente,raquel.macías@gmail.com,952049684,51069380879015,8038854996
+39,Ramiro,Santillán,F,1986-07-29,licenciatura,docente,marisol.ortega@yahoo.com,989449788,88859010411788,1429206861
+40,Rosalia,Prieto,F,1980-05-24,licenciatura,docente,jesús.serrano@gmail.com,964 635 722,40695101512912,4106154080
+41,Laura,Cedillo,F,1986-02-03,licenciatura,docente,horacio.mercado@gmail.com,985 031 715,32095336134015,3219458290
+42,Margarita,Rosas,F,1989-11-20,licenciatura,docente,elvira.abrego@yahoo.com,966.296.111,29136247196193,9833062324
+43,José Emilio,Urbina,F,1998-07-29,licenciatura,docente,emilia.vigil@hotmail.com,935933480,23289923427560,2697020449
+44,Josefina,Villalpando,F,1991-07-07,licenciatura,docente,carlos.castellanos@hotmail.com,931.104.909,46891121166975,4016968087
+45,Lourdes,Mares,F,1981-09-03,licenciatura,docente,emilia.pizarro@hotmail.com,992-508-763,83251439959493,6736009497
+46,Gerardo,Huerta,F,1999-05-12,licenciatura,docente,maría cristina.ozuna@gmail.com,982 974 060,66390133364092,5725294765
+47,Virginia,Soliz,F,1998-10-24,licenciatura,docente,josefina.saiz@hotmail.com,958.223.778,95710884457298,7659038706
+48,Rubén,Casárez,F,1993-02-21,licenciatura,docente,fernando.gaytán@hotmail.com,948702020,59783952410177,1503074886
+49,María Luisa,Valdés,M,1985-05-11,licenciatura,docente,gustavo.osorio@gmail.com,902.784.843,99117479673258,2609207586
+50,Ramiro,Trejo,F,1981-02-11,licenciatura,docente,esteban.cordero@gmail.com,949410669,59572509773636,9424100978
+51,Daniela,Abreu,F,1997-04-22,licenciatura,docente,clara.fuentes@hotmail.com,993192851,63045659457067,8066646564
+52,Lucia,Adame,F,1994-09-13,licenciatura,docente,yolanda.mesa@gmail.com,958079533,86385988876001,6383058264
+53,Eloisa,Nájera,M,1998-07-10,licenciatura,docente,sergio.briones@gmail.com,923821038,56591758578820,3569360370
+54,Isabel,Mares,F,1996-03-31,licenciatura,docente,octavio.romo@hotmail.com,983-173-829,26630359113555,5971722848
+55,Elisa,Araña,M,1985-01-18,licenciatura,docente,josé eduardo.rosas@hotmail.com,999801631,86838871421261,7378396530
+56,Alicia,Oquendo,F,1992-01-30,licenciatura,docente,julio.nava@hotmail.com,980158935,93961539061664,9939993378
+57,Manuela,Bañuelos,M,1990-04-11,licenciatura,docente,patricia.farías@yahoo.com,913 309 970,93265796477220,9188239377
+58,Conchita,Abeyta,M,1987-10-06,licenciatura,docente,víctor.cerda@yahoo.com,921926534,72627440343155,1093408586
+59,Rodrigo,Valencia,M,1980-12-15,licenciatura,docente,manuela.valle@gmail.com,930-945-883,67398320321438,9225725209
+60,Norma,Valdez,F,1989-06-27,licenciatura,docente,lucas.cabrera@gmail.com,979 964 625,21307133648635,1630529990
+61,Irene,Olivárez,F,1983-04-11,licenciatura,docente,gonzalo.laureano@hotmail.com,934801446,75563953779594,8278608514
+62,Emilio,Tamez,M,1990-05-07,licenciatura,docente,elsa.quintanilla@yahoo.com,903698549,30574239506757,3513856762
+63,Gregorio,Alcala,F,1992-04-25,licenciatura,docente,martín.canales@yahoo.com,900328961,24721930031715,5428507731
+64,Benjamín,Roybal,F,1996-03-02,licenciatura,docente,catalina.amador@hotmail.com,935280477,72860901264046,9141448405
+65,Andrés,Miramontes,F,1990-04-08,licenciatura,docente,gilberto.aponte@yahoo.com,931190742,41688215342808,5717772753
+66,María José,Montalvo,F,1981-07-06,licenciatura,docente,maría josé.araña@yahoo.com,925126848,75697380858977,1997179636
+67,Juan Carlos,Garrido,M,1993-09-03,licenciatura,docente,guillermo.ayala@hotmail.com,916-646-126,20623414017750,8844961799
+68,Olivia,Lozano,F,1988-03-05,licenciatura,docente,sergio.marrero@gmail.com,915 251 984,59422919320825,7159373880
+69,Adán,Soria,M,1986-04-25,licenciatura,docente,isabel.anguiano@hotmail.com,903799438,83931860942724,9188668269
+70,Santiago,Vázquez,M,1984-09-13,licenciatura,docente,carolina.bustos@gmail.com,919 520 422,98367010206655,4044078717
+71,Rubén,Colunga,F,1993-12-07,licenciatura,docente,emilia.arellano@hotmail.com,991215531,44803586808315,4157525183
+72,Claudia,Quintana,F,1989-07-07,licenciatura,docente,sergio.santana@yahoo.com,939.462.788,98071263762210,7709688401
+73,Graciela,Polanco,F,1982-05-05,licenciatura,docente,diego.villarreal@yahoo.com,948 145 869,62033783048657,7422809401
+74,Caridad,Flórez,M,1981-05-13,licenciatura,docente,julio.cordero@hotmail.com,914.461.124,10197333519190,2477314012
+75,Julia,Zapata,F,1986-02-08,licenciatura,docente,amalia.loya@gmail.com,910 203 656,75511247393455,8751804122
+76,Sonia,Armendáriz,M,1991-02-13,licenciatura,docente,dorotea.villalobos@yahoo.com,905045386,22684038782268,9966568285
+77,Emilia,Ordóñez,M,1981-08-19,licenciatura,docente,victoria.rodarte@gmail.com,986.196.910,26178744300672,1782276958
+78,Benjamín,Gálvez,F,1999-04-09,licenciatura,docente,césar.rojo@gmail.com,965750621,52409062530819,7477661408
+79,Jaime,Domínguez,F,1997-07-12,licenciatura,docente,gilberto.garcía@yahoo.com,931 339 773,38002645262850,1521613059
+80,Rosa,Suárez,M,1982-02-24,licenciatura,docente,clara.ríos@hotmail.com,913-410-354,12847149903654,2653736989
+81,Graciela,Ayala,F,1982-08-18,licenciatura,docente,esteban.lerma@hotmail.com,984405156,68759485445058,2624396899
+82,Rosalia,Berríos,M,1994-09-07,licenciatura,docente,berta.tovar@gmail.com,947855105,37658409414572,1526328995
+83,Mariana,Pizarro,M,1979-10-23,licenciatura,docente,antonia.valdivia@gmail.com,976039854,50358777584071,5251514594
+84,Emilio,Soto,F,1991-09-22,licenciatura,docente,homero.medrano@hotmail.com,901519714,23245707850455,7502806966
+85,Ester,Orta,F,1988-11-09,licenciatura,docente,blanca.verdugo@gmail.com,940.816.702,62242708641906,1732419967
+86,Conchita,Alanis,M,1988-03-04,licenciatura,docente,carlos.tejeda@yahoo.com,946.197.617,42002409153445,2973361805
+87,Sancho,Merino,M,1981-10-27,licenciatura,docente,berta.espino@gmail.com,938.095.872,16465923389801,6999620113
+88,Juan,Alfaro,F,1996-09-15,licenciatura,docente,lorena.haro@hotmail.com,936042331,92347657681880,8353388245
+89,Rocio,Carrera,M,1998-05-20,licenciatura,docente,homero.gómez@yahoo.com,917.489.445,61678522152833,2528954670
+90,Virginia,Hernández,F,1992-06-21,licenciatura,docente,ramona.otero@hotmail.com,992 530 062,21756924558931,6899374748
+91,Luis Miguel,Esquivel,M,1992-05-05,licenciatura,docente,jerónimo.ramírez@hotmail.com,946.540.613,20507642281216,8084590418
+92,Jaime,Cortez,F,1982-01-25,licenciatura,docente,pedro.palacios@gmail.com,950.970.406,14269102898194,8244780055
+93,Amalia,Colunga,M,1990-11-29,licenciatura,docente,emilia.pedroza@hotmail.com,932375415,70886504734130,7351524355
+94,Esperanza,Navarrete,F,1983-06-27,licenciatura,docente,teodoro.báez@hotmail.com,905691578,68226682327823,4010765538
+95,Adriana,Villaseñor,F,1991-01-17,licenciatura,docente,sofia.urrutia@hotmail.com,911 486 270,98673610971813,9889262591
+96,Tomás,Zaragoza,M,1982-06-19,licenciatura,docente,rodrigo.rico@yahoo.com,967 895 537,82191667980746,2404450216
+97,Luis Miguel,Bañuelos,M,1989-11-07,licenciatura,docente,estela.gaona@yahoo.com,965-959-111,47507666125704,2240526269
+98,Raúl,Mondragón,M,1982-11-14,licenciatura,docente,raúl.enríquez@yahoo.com,911278690,17269207308110,3874907215
+99,Alfonso,Centeno,F,1992-03-13,licenciatura,docente,dorotea.gurule@yahoo.com,937-522-739,13646129848834,6597880770
+100,María Luisa,Zepeda,F,1989-10-19,licenciatura,docente,patricio.casas@yahoo.com,985895713,61043788709610,2815959081
+101,Rafael,Mercado,M,1986-03-31,licenciatura,docente,maría josé.hernández@yahoo.com,913.154.003,32267350881660,8141140124
+102,María Soledad,Rosario,F,1999-04-10,licenciatura,docente,gabriel.gómez@hotmail.com,924.246.738,42613819201534,8524863665
+103,Diana,Ozuna,F,1984-03-11,licenciatura,docente,francisco.irizarry@hotmail.com,954-678-979,24503973630509,3174809734
+104,Manuel,Noriega,F,1990-12-03,licenciatura,docente,eduardo.vélez@gmail.com,967502467,74623178544514,5550951640
+105,Marisol,Matías,F,1984-03-26,licenciatura,docente,jesús.leal@hotmail.com,973-203-051,99967020803187,7122146550
+106,Marcela,Soto,M,1989-05-11,licenciatura,docente,diego.trejo@gmail.com,924 741 382,17942490715699,1639373305
+107,Andrea,Puga,F,1997-05-25,licenciatura,docente,esperanza.cruz@hotmail.com,929286172,14422112475575,5008659629
+108,Anita,Quesada,M,1989-02-11,licenciatura,docente,jacobo.valle@hotmail.com,935-985-460,72453995480463,2073170667
+109,Rocio,Casanova,M,1992-04-03,licenciatura,docente,víctor.benavides@gmail.com,923.672.097,88360346702447,5587885317
+110,Fernando,Gollum,F,1987-01-12,licenciatura,docente,carolina.márquez@gmail.com,951 884 066,53761168387843,7542040768
+111,Lorena,Deleón,F,1987-09-27,licenciatura,docente,enrique.toro@gmail.com,922-251-980,75495330297088,9067180420
+112,Homero,Espino,M,1997-05-05,licenciatura,docente,marco antonio.chapa@yahoo.com,924602502,18256887089147,2186459709
+113,Fernando,Vélez,F,1979-11-24,licenciatura,docente,antonio.campos@hotmail.com,975 631 499,70420895510405,6467294468
+114,Lola,Rivera,F,1993-02-06,licenciatura,docente,jorge.jurado@yahoo.com,931-092-716,23910736155311,7102241802
+115,Soledad,Arce,F,1989-03-20,licenciatura,docente,luz.curiel@yahoo.com,974.439.627,49722853777101,1103744500
+116,Benjamín,Oquendo,F,1998-06-09,licenciatura,docente,verónica.gracia@gmail.com,927377012,71372244689636,8342131500
+117,María Luisa,Garica,F,1996-04-08,licenciatura,docente,eva.pelayo@gmail.com,975125733,57290356955919,4797269882
+118,Emilia,Orta,F,1983-11-26,licenciatura,docente,barbara.gracia@gmail.com,942 716 733,46993008758531,7533248074
+119,José María,Cintrón,M,1998-12-10,licenciatura,docente,andrés.bahena@gmail.com,981 310 466,53267309315868,8232510842
+120,Cristobal,Padilla,M,1997-06-12,licenciatura,docente,ramiro.beltrán@hotmail.com,921-973-990,68994654454562,2930797506
+121,José Emilio,Cadena,M,1995-01-27,licenciatura,docente,jorge.castro@yahoo.com,941 093 836,40759369022754,2827388373
+122,Ramón,Ochoa,M,1997-09-28,licenciatura,docente,octavio.de jesús@hotmail.com,901853765,15407034151167,6440607654
+123,Eduardo,Montoya,F,1990-10-23,licenciatura,docente,adela.blanco@yahoo.com,944.868.390,27206999835703,3517723994
+124,Lourdes,Garibay,F,1992-06-04,licenciatura,docente,alejandro.nava@yahoo.com,944-907-934,16663485228803,9665489427
+125,Ariadna,Colón,M,1984-06-27,licenciatura,docente,barbara.rubio@yahoo.com,941579562,99707333430339,1957147963
+126,Vicente,Almanza,M,1987-11-13,licenciatura,docente,gerardo.manzanares@yahoo.com,989 311 948,81633832772023,4764281212
+127,Silvia,Elizondo,F,1989-08-30,licenciatura,docente,claudia.regalado@gmail.com,986-891-804,61197284856328,8192315919
+128,Cristian,Peña,F,1995-04-18,licenciatura,docente,martín.apodaca@yahoo.com,974006863,69380587339353,4717283814
+129,Fernando,Iglesias,M,1980-06-21,licenciatura,docente,josé.archuleta@hotmail.com,949 291 807,18286022218582,8424356765
+130,Óscar,Concepción,M,1984-01-12,licenciatura,docente,blanca.castellanos@yahoo.com,990617621,93752228250232,1038351141
+131,Ana Luisa,Cortés,M,1986-08-31,licenciatura,docente,rosalia.arriaga@yahoo.com,918-491-349,19271895880620,8652681990
+132,Daniela,Lugo,M,1980-06-28,licenciatura,docente,rosario.ballesteros@gmail.com,994.466.582,98497993999287,1756508055
+133,Lucia,Paredes,F,1990-01-26,licenciatura,docente,horacio.soto@yahoo.com,969760987,27738116811735,6183507213
+134,Isabela,Adame,M,1991-06-09,licenciatura,docente,arturo.campos@hotmail.com,926.094.504,79061975272492,8694363641
+135,Salvador,Palomino,F,1980-03-22,licenciatura,docente,carmen.urías@hotmail.com,900 456 650,74293021535051,3938537611
+136,Guillermina,Molina,M,1991-10-05,licenciatura,docente,luis.delacrúz@gmail.com,983-056-319,24510262096631,6814748732
+137,Carmen,Salgado,F,1994-03-20,licenciatura,docente,pedro.solorzano@yahoo.com,916-382-000,55892147380301,9812221265
+138,Margarita,Frías,F,1988-08-15,licenciatura,docente,sonia.bueno@gmail.com,978.694.512,88695947580928,4448165011
+139,Gonzalo,Delatorre,M,1992-07-13,licenciatura,docente,alfonso.pichardo@gmail.com,961405512,77617383062567,8907929604
+140,Sergio,Tamez,F,1986-06-16,licenciatura,docente,clara.pelayo@hotmail.com,941 050 127,19588124082432,9626797831
+141,Daniela,Villa,M,1998-10-17,licenciatura,docente,luis miguel.marín@yahoo.com,976.204.316,47894618819323,6573238713
+142,Guillermo,Bétancourt,M,1992-03-03,licenciatura,docente,francisca.guajardo@yahoo.com,923-055-839,36113910155076,8197025622
+143,Isabel,Perea,M,1988-12-31,licenciatura,docente,óscar.negrón@hotmail.com,972.353.036,24726019943155,3908311133
+144,Raquel,Camacho,F,1989-01-25,licenciatura,docente,timoteo.carrillo@yahoo.com,904 735 733,62278954113223,7198991852
+145,Natalia,Camacho,F,1983-08-02,licenciatura,docente,david.jasso@yahoo.com,957 169 414,22119513130201,1481644845
+146,Marisol,Reyna,M,1996-03-30,licenciatura,docente,victoria.santana@hotmail.com,925.733.881,47929982171283,7130350128
+147,Ricardo,Maestas,M,1980-10-31,licenciatura,docente,clemente.lugo@gmail.com,900-161-552,99484807024742,2598867140
+148,María Cristina,Garrido,M,1994-01-13,licenciatura,docente,martín.solís@gmail.com,963.564.913,26531332170131,8097914755
+149,Ana,Dueñas,M,1991-01-21,licenciatura,docente,felipe.carrasquillo@gmail.com,968-311-448,85716242790595,8677525130
+150,Adela,Vigil,M,1989-08-30,licenciatura,docente,magdalena.cedillo@yahoo.com,951 945 119,21849607923763,3774673310
+151,Clemente,Leal,F,1987-03-03,licenciatura,docente,leticia.montes@hotmail.com,987853234,52781827772943,3588903830
+152,Federico,Navarrete,M,1995-09-12,licenciatura,docente,josé eduardo.villegas@yahoo.com,910-605-065,94619251765893,4827126832
+153,Elena,Ybarra,F,1996-02-25,licenciatura,docente,carmen.villalobos@yahoo.com,920.878.004,64216772857583,6108428591
+154,Amalia,Leal,M,1988-06-30,licenciatura,docente,pablo.ontiveros@hotmail.com,946 951 962,49205256668607,1592794865
+155,Emilia,Varela,M,1980-07-19,licenciatura,docente,eloisa.villaseñor@yahoo.com,943.338.189,64651419506027,9051873689
+156,Soledad,Saldaña,F,1980-01-20,licenciatura,docente,daniel.nieves@hotmail.com,965.775.481,66100210251607,8139382401
+157,Yolanda,Naranjo,F,1988-05-02,licenciatura,docente,juan carlos.ballesteros@gmail.com,998-293-516,81575314965669,3510890963
+158,Alejandra,Rangel,F,1987-02-17,licenciatura,docente,miguel.pichardo@yahoo.com,968-606-275,46964368972035,3922278351
+159,Julia,Jaimes,M,1992-12-13,licenciatura,docente,eva.rosado@yahoo.com,951-040-251,66779329052981,3364023659
+160,Carla,Rodríguez,M,1993-01-24,licenciatura,docente,benjamín.altamirano@yahoo.com,907805962,67831620291172,4531178712
+161,José Luis,Carvajal,F,1983-12-14,licenciatura,docente,mariana.mares@yahoo.com,961 578 447,69692395471914,2930470810
+162,Gabriela,Dueñas,M,1980-05-18,licenciatura,docente,andrea.verdugo@gmail.com,994064160,29176412727336,6739500285
+163,Magdalena,Montañez,M,1987-09-29,licenciatura,docente,micaela.montañez@gmail.com,970510298,90947542237437,8260640571
+164,Lorenzo,Salinas,F,1994-02-10,licenciatura,docente,maría josé.rodrígez@hotmail.com,971888096,66657163315177,9709307466
+165,Luis Miguel,Nieves,M,1981-06-30,licenciatura,docente,francisco.alba@yahoo.com,962-560-688,49776535523582,5758569831
+166,Jorge,Henríquez,F,1998-03-03,licenciatura,docente,carlota.limón@gmail.com,932-237-234,74371779125521,2526572635
+167,Ignacio,Cornejo,F,1993-05-24,licenciatura,docente,raúl.lovato@yahoo.com,947-646-343,72651801509629,1237902519
+168,Alfonso,Duarte,F,1989-01-16,licenciatura,docente,estela.linares@hotmail.com,932075686,22017238548106,4948719302
+169,Andrés,Parra,F,1994-04-01,licenciatura,docente,lorenzo.corrales@gmail.com,905.768.698,83888702069831,3553185652
+170,Arturo,Rivas,M,1986-12-19,licenciatura,docente,lorenzo.benítez@hotmail.com,996448285,89104890374661,2785176624
+171,Sancho,Raya,F,1984-10-26,licenciatura,docente,marta.viera@hotmail.com,908590794,99475319293992,9982806853
+172,Ricardo,Bétancourt,M,1999-04-17,licenciatura,docente,mario.alva@hotmail.com,970.242.959,90752385253656,2166508666
+173,Marcela,Gamboa,F,1983-04-11,licenciatura,docente,luis miguel.montes@gmail.com,900 958 883,43274550203789,4037690144
+174,Josefina,Varela,F,1986-05-07,licenciatura,docente,marilu.treviño@gmail.com,939-247-968,21570127854990,3301016489
+175,Irene,Ocampo,F,1980-03-11,licenciatura,docente,luisa.vanegas@yahoo.com,996-712-198,56694232059524,7260897398
+176,Claudio,Sauceda,F,1987-08-23,licenciatura,docente,josefina.quezada@hotmail.com,984 892 580,90835081706898,6765372019
+177,José,Cardenas,M,1983-03-17,licenciatura,docente,magdalena.núñez@gmail.com,976866896,74227919997863,1778001159
+178,Octavio,Espinoza,F,1996-04-16,licenciatura,docente,amalia.palacios@gmail.com,947-501-711,85568280876449,1799190684
+179,Joaquín,Rosado,F,1982-07-26,licenciatura,docente,enrique.ontiveros@gmail.com,978 185 333,66752559349177,3647996088
+180,Vicente,Merino,M,1993-06-25,licenciatura,docente,marco antonio.velázquez@gmail.com,981.220.208,29914136747369,7329856644
+181,Gonzalo,Márquez,F,1996-05-14,licenciatura,docente,juan carlos.parra@hotmail.com,958-244-428,29517480563189,3853492057
+182,Lorena,Montes,M,1983-01-11,licenciatura,docente,carlos.pedroza@gmail.com,993 294 712,72270243162623,6174045329
+183,Francisca,Gracia,F,1993-11-23,licenciatura,docente,isabela.estévez@hotmail.com,913-079-263,99715891434986,4326549068
+184,Ramona,Uribe,F,1982-02-05,licenciatura,docente,clara.lerma@hotmail.com,931.253.058,41854588318473,4937352296
+185,María del Carmen,Solorio,M,1985-03-21,licenciatura,docente,jacobo.murillo@yahoo.com,967 065 010,89220139793872,8994305636
+186,Clara,Lerma,M,1990-10-13,licenciatura,docente,marilu.ulibarri@hotmail.com,933 971 071,60487374882267,8298031363
+187,Micaela,Solano,F,1985-07-16,licenciatura,docente,julio césar.noriega@yahoo.com,932 843 649,58647133372611,6872475767
+188,Rubén,Rodarte,M,1998-01-19,licenciatura,docente,andrea.valles@yahoo.com,950.157.503,25777025972373,2967642155
+189,Leonor,Santillán,F,1991-12-04,licenciatura,docente,sofia.apodaca@yahoo.com,955 429 125,30416847900736,5035918707
+190,Clemente,Balderas,F,1986-07-29,licenciatura,docente,samuel.godoy@gmail.com,934.571.001,51512591874237,9767998692
+191,Gilberto,Sotelo,F,1987-04-26,licenciatura,docente,victoria.lozada@hotmail.com,981-035-150,60341022946515,2720033532
+192,Soledad,Sanabria,F,1992-01-14,licenciatura,docente,ana.fierro@gmail.com,922 126 429,59352544658417,2432633286
+193,Isabel,Puente,M,1991-04-14,licenciatura,docente,horacio.serrato@hotmail.com,969.361.499,64629329608685,1342614491
+194,Bernardo,Saldivar,M,1988-10-03,licenciatura,docente,agustín.sáenz@gmail.com,981.051.460,37397397907110,3356113247
+195,Rosa,Zayas,M,1984-06-23,licenciatura,docente,germán.casárez@yahoo.com,942 459 677,93983418514205,8583449033
+196,Julia,Maldonado,F,1990-03-16,licenciatura,docente,lucas.mascareñas@hotmail.com,992-047-331,32763070993414,5632732169
+197,Luis,Bonilla,F,1987-12-17,licenciatura,docente,claudia.rivera@gmail.com,941 934 719,32988461971287,9582072915
+198,Débora,Ruelas,F,1992-02-04,licenciatura,docente,isabel.cantú@yahoo.com,974-470-403,84735653469045,3608825313
+199,Graciela,Nava,F,1987-05-22,licenciatura,docente,conchita.franco@yahoo.com,993 045 878,25658141649642,7380773617
+200,Micaela,Lira,M,1980-02-03,licenciatura,docente,timoteo.vásquez@gmail.com,914.801.311,26952366775106,4902270655
+201,Daniel,Puente,M,1991-12-02,licenciatura,docente,ana.escobar@gmail.com,915 548 830,77988570594121,9144864901
+202,Cristina,Alcala,M,1983-05-17,licenciatura,docente,juana.prado@gmail.com,980787306,80353255441801,1942634842
+203,José Eduardo,Marrero,F,1998-10-29,licenciatura,docente,silvia.ceballos@yahoo.com,975787216,12730404827105,5308653274
+204,Emilia,Maldonado,M,1994-05-11,licenciatura,docente,mario.parra@gmail.com,940-265-176,43445679655774,6746737164
+205,Cecilia,Pineda,M,1983-05-30,licenciatura,docente,débora.loya@gmail.com,944.575.644,44059277405579,3702779618
+206,Andrés,Candelaria,F,1982-12-26,licenciatura,docente,joaquín.duran@yahoo.com,937321909,59329171880873,8936251073
+207,Mayte,Badillo,F,1998-03-25,licenciatura,docente,micaela.ulloa@hotmail.com,960.823.820,11269607951962,5292508856
+208,Verónica,Gollum,M,1992-10-09,licenciatura,docente,rodrigo.calvillo@hotmail.com,984.794.339,16830043563620,2048157978
+209,Daniela,Zayas,M,1989-07-27,licenciatura,docente,luz.bermúdez@hotmail.com,912294075,49102320902104,7663980218
+210,Teresa,Olivo,F,1992-03-28,licenciatura,docente,pablo.juárez@gmail.com,917.286.820,37511773950496,3548058838
+211,Isabela,Mena,F,1994-10-10,licenciatura,docente,patricio.serna@hotmail.com,910.974.826,32338222856687,8554098490
+212,Marcela,Muro,M,1992-06-24,licenciatura,docente,ana maría.salas@hotmail.com,961 224 081,34562709625072,1565486580
+213,Hugo,Mercado,F,1981-07-13,licenciatura,docente,roberto.macías@yahoo.com,952 840 099,34085519493903,8233173644
+214,Jerónimo,Viera,M,1987-03-15,licenciatura,docente,horacio.almanza@gmail.com,963.998.198,10684588614445,1324947756
+215,Sara,Villalpando,M,1982-11-07,licenciatura,docente,carmen.crespo@hotmail.com,905 678 682,65869225423443,7811566467
+216,Gabriel,Alba,F,1999-05-28,licenciatura,docente,gerardo.caballero@gmail.com,965487122,98137261580726,6477230258
+217,Manuel,Santiago,F,1996-03-31,licenciatura,docente,irene.mota@hotmail.com,966-914-934,26133781216942,6979377307
+218,Pablo,Lozano,M,1992-02-22,licenciatura,docente,maría elena.arriaga@yahoo.com,916.913.911,29020623195802,2827999847
+219,Miguel,Velasco,F,1985-06-26,licenciatura,docente,marta.rodríguez@hotmail.com,918 276 187,60655270484584,1794771036
+220,Sancho,Zavala,F,1989-02-26,licenciatura,docente,ana luisa.madera@hotmail.com,903 942 804,55197657197125,4358927831
+221,Jaime,Domínquez,F,1997-05-12,licenciatura,docente,gustavo.robledo@hotmail.com,909 186 979,97731903134844,8651319234
+222,Diego,Luevano,M,1998-02-26,licenciatura,docente,guillermina.patiño@yahoo.com,912-139-846,14780484072619,9614461377
+223,Estela,Briseño,F,1982-02-19,licenciatura,docente,isabel.nájera@yahoo.com,948.457.311,72172881100172,3990607272
+224,Virginia,Delapaz,F,1993-07-03,licenciatura,docente,luis miguel.colunga@hotmail.com,953-827-013,74663069717771,6936995832
+225,Marilu,Cuellar,M,1990-09-28,licenciatura,docente,magdalena.marrero@hotmail.com,965 828 275,31908868174981,4949364361
+226,Sofia,Gallegos,M,1992-07-30,licenciatura,docente,jaime.haro@gmail.com,916 477 564,17136252457018,4488630227
+227,Reina,Alcala,F,1982-04-22,licenciatura,docente,bernardo.sierra@yahoo.com,988997987,99663112083251,9412573720
+228,Marco Antonio,Vigil,M,1989-01-26,licenciatura,docente,maría elena.orosco@hotmail.com,927276696,15341478864024,3776193182
+229,María Luisa,Narváez,F,1991-04-11,licenciatura,docente,maría teresa.juárez@hotmail.com,903.569.367,60595365090635,6099686520
+230,Florencia,Toro,M,1996-02-21,licenciatura,docente,virginia.alarcón@yahoo.com,901087609,30834705208351,2557436563
+231,Isabel,Orellana,M,1986-10-17,licenciatura,docente,florencia.casas@gmail.com,945-444-702,47099130826939,7578480928
+232,Roberto,Villalobos,M,1985-11-23,licenciatura,docente,débora.urías@gmail.com,905.566.835,74104958631975,9177175149
+233,Samuel,Bustos,F,1996-11-12,licenciatura,docente,ester.zúñiga@hotmail.com,935-330-383,40634133726267,2303700396
+234,José Eduardo,Merino,M,1989-09-06,licenciatura,docente,magdalena.peralta@yahoo.com,926-999-339,20779337740246,4366390425
+235,Adela,Barreto,F,1989-08-30,licenciatura,docente,daniela.abeyta@gmail.com,967 932 622,40343487162747,8410087210
+236,José María,Estrada,M,1986-08-23,licenciatura,docente,marisol.abeyta@yahoo.com,989 724 057,40799113820506,3089276037
+237,Arturo,Molina,F,1995-01-26,licenciatura,docente,estela.gálvez@yahoo.com,917 027 545,17363947180639,1906308776
+238,Jaime,Barrera,M,1981-12-05,licenciatura,docente,pilar.olmos@yahoo.com,964987645,86670163812188,3937777574
+239,Irene,Alaniz,M,1986-06-28,licenciatura,docente,ariadna.venegas@yahoo.com,971.071.358,93572101422366,7110749705
+240,Guadalupe,Rascón,F,1998-08-12,licenciatura,docente,lourdes.botello@yahoo.com,961.908.087,94595045300038,5882775336
+241,Mateo,Torres,F,1986-11-18,licenciatura,docente,estela.huerta@gmail.com,999244453,47992721850706,5842062957
+242,Eva,Barrientos,F,1992-11-26,licenciatura,docente,andrés.rivera@hotmail.com,948956341,81681947372122,4931500647
+243,Amalia,Montes,F,1984-07-23,licenciatura,docente,florencia.parra@gmail.com,939 602 243,83161106644015,6553835441
+244,Ángela,Haro,M,1993-04-18,licenciatura,docente,marco antonio.araña@gmail.com,974.310.223,29842098358960,3015334814
+245,María,Valenzuela,F,1985-04-30,licenciatura,docente,marco antonio.serna@gmail.com,915.256.277,46754313514104,7040627917
+246,Elena,Arroyo,M,1996-10-03,licenciatura,docente,josé emilio.anaya@gmail.com,986.068.663,94156258358918,3600424310
+247,Ernesto,Salinas,F,1995-07-14,licenciatura,docente,leonor.figueroa@hotmail.com,913 027 987,55446074346229,7517479717
+248,Conchita,Ureña,F,1984-04-18,licenciatura,docente,javier.agosto@hotmail.com,937.616.042,68595853332373,9875914070
+249,María Luisa,Cabrera,F,1979-12-01,licenciatura,docente,pilar.pérez@hotmail.com,964615388,54624579709551,9458492669
+250,Lilia,Ríos,F,1981-02-26,licenciatura,docente,mariano.girón@yahoo.com,935 328 482,20618883313989,3585055650
+251,Gonzalo,Soria,F,1989-09-26,licenciatura,docente,inés.balderas@hotmail.com,915-004-007,47432969968257,6307410864
+252,Graciela,Mojica,F,1996-09-07,licenciatura,docente,cristina.ontiveros@gmail.com,995-708-313,18241213243376,8642052686
+253,Luis,Bahena,M,1995-04-17,licenciatura,docente,julia.casas@yahoo.com,906950333,89737367526081,8660580457
+254,Juan Carlos,Saiz,M,1993-06-08,licenciatura,docente,victoria.merino@gmail.com,950-233-903,23886021080213,8747183984
+255,Guillermo,Saldaña,M,1996-11-21,licenciatura,docente,manuel.ferrer@yahoo.com,916-575-905,64424418496517,8210766425
+256,Juan,Macías,M,1997-07-27,licenciatura,docente,marcos.barajas@yahoo.com,968724977,40413597522871,2312265909
+257,Cristian,Ortiz,M,1993-01-10,licenciatura,docente,margarita.calvillo@gmail.com,915100341,80502125343707,2495607244
+258,Magdalena,Escobedo,F,1985-03-04,licenciatura,docente,catalina.verdugo@yahoo.com,977.506.945,96416147852075,2742063074
+259,Julia,Sánchez,F,1997-06-02,licenciatura,docente,emilio.porras@gmail.com,916-865-882,58613158661736,1939602833
+260,Miguel Ángel,Espinoza,F,1983-03-25,licenciatura,docente,norma.carrasco@hotmail.com,929.216.471,19433332623911,4846792655
+261,Luisa,Jáquez,F,1996-09-06,licenciatura,docente,jaime.hidalgo@gmail.com,930809030,16679647372611,3510126719
+262,Marcela,Toledo,F,1985-08-04,licenciatura,docente,andrea.terrazas@yahoo.com,914785694,54020726314969,2892328567
+263,Victoria,Granados,M,1997-07-05,licenciatura,docente,víctor.malave@yahoo.com,990-734-649,89334531257879,8119383342
+264,Eloisa,Ramos,M,1985-01-31,licenciatura,docente,teodoro.griego@hotmail.com,979 224 284,98552492431426,9741799448
+265,Catalina,Carranza,F,1990-04-18,licenciatura,docente,josefina.alaniz@hotmail.com,971 443 689,55720711987717,5728905746
+266,Pablo,Beltrán,F,1982-08-29,licenciatura,docente,miguel ángel.pabón@hotmail.com,927-316-123,61302965363762,2662276723
+267,Antonio,Quintana,F,1993-11-22,licenciatura,docente,josé maría.alemán@hotmail.com,918-819-502,37490989387550,3433166493
+268,Ángela,Gutiérrez,F,1982-02-26,licenciatura,docente,guillermo.leal@gmail.com,966665012,25783976056981,6676504236
+269,Julio César,Valentín,F,1983-05-22,licenciatura,docente,miguel.zúñiga@hotmail.com,968 442 410,64444814878575,1611304986
+270,Víctor,Girón,F,1986-05-23,licenciatura,docente,eloisa.gaytán@gmail.com,939.254.038,51426560948848,9795011937
+271,Julio,Quezada,F,1993-04-28,licenciatura,docente,anita.romo@hotmail.com,929.649.753,11640852754807,5916915027
+272,Eloisa,Almanza,F,1991-06-13,licenciatura,docente,margarita.escamilla@hotmail.com,972-671-149,86638332700735,7011326951
+273,Germán,Briseño,M,1991-09-25,licenciatura,docente,armando.solís@hotmail.com,942 174 211,33341058569214,4438339145
+274,Clemente,Ceballos,F,1993-09-22,licenciatura,docente,maría.salcedo@hotmail.com,934.061.461,94780013145749,4772073174
+275,María,Vega,M,1983-01-10,licenciatura,docente,sara.gutiérrez@yahoo.com,992360078,81619998949282,9971775877
+276,Antonio,Mateo,M,1995-10-15,licenciatura,docente,sara.mireles@gmail.com,952 126 602,36405323717935,1118492489
+277,Eva,Chávez,M,1983-10-27,licenciatura,docente,armando.colunga@hotmail.com,970 214 606,86170480951960,6260876996
+278,Manuel,Alfaro,M,1984-07-19,licenciatura,docente,ignacio.pabón@gmail.com,954-745-735,51845666470609,9120406391
+279,Marcela,Olivera,F,1990-06-14,licenciatura,docente,bernardo.pulido@yahoo.com,992-300-848,70597577738102,3509713689
+280,José,Castillo,F,1982-07-20,licenciatura,docente,magdalena.padilla@hotmail.com,917.158.375,92536988148141,2007106204
+281,Marcos,Bueno,F,1989-10-14,licenciatura,docente,octavio.anguiano@gmail.com,979 244 181,98362367237628,2963703985
+282,Ana,Sierra,F,1987-05-12,licenciatura,docente,carlos.véliz@hotmail.com,987-100-877,97233084109605,1630876478
+283,Lourdes,Godínez,F,1994-09-25,licenciatura,docente,eloisa.farías@hotmail.com,963.241.141,26483173629239,1729089244
+284,Estela,Oquendo,M,1995-03-30,licenciatura,docente,yolanda.cazares@hotmail.com,974708208,28430783332636,6389228120
+285,Antonia,Osorio,M,1998-12-02,licenciatura,docente,reina.armenta@gmail.com,927 611 184,52229416042615,4853038863
+286,Rosalia,Valladares,M,1987-01-04,licenciatura,docente,beatriz.casares@gmail.com,948-190-180,44792505594949,3868828409
+287,Fernando,Alanis,F,1981-05-06,licenciatura,docente,claudio.pabón@yahoo.com,956.978.305,57303619126505,7931572725
+288,Martín,Tapia,M,1988-08-04,licenciatura,docente,santiago.ramos@gmail.com,962.171.952,13179815487999,5646257990
+289,María Teresa,Oquendo,M,1993-11-08,licenciatura,docente,blanca.malave@gmail.com,953 910 102,87185918358488,3582149579
+290,Antonio,Regalado,F,1996-07-21,licenciatura,docente,mariano.cervantes@yahoo.com,998.242.199,40737672909250,5937194259
+291,Ariadna,Mares,M,1993-04-05,licenciatura,docente,marilu.heredia@yahoo.com,945-131-830,87474242436579,4611477914
+292,María Teresa,Saucedo,F,1995-10-18,licenciatura,docente,clemente.piña@yahoo.com,988.099.278,66164440582457,6345703781
+293,Manuel,Palomino,F,1998-06-16,licenciatura,docente,lucia.rivera@hotmail.com,943-878-693,17843951887782,2167769360
+294,Rodrigo,Ramírez,M,1986-03-16,licenciatura,docente,ramiro.fierro@yahoo.com,900828641,89832050214761,8653778839
+295,Silvia,Borrego,M,1987-05-06,licenciatura,docente,gregorio.reyna@yahoo.com,972315724,12709298668711,9262414082
+296,Miguel,Mayorga,M,1984-12-17,licenciatura,docente,josé.farías@hotmail.com,952 627 260,66686734885529,3727759370
+297,Estela,Miranda,M,1988-05-05,licenciatura,docente,anita.granado@yahoo.com,970560558,43884475884432,4667218142
+298,Mateo,Orellana,F,1996-10-21,licenciatura,docente,blanca.vázquez@yahoo.com,967.864.001,31104775901670,7676013426
+299,Eloisa,Rentería,M,1999-04-04,licenciatura,docente,gilberto.valdés@yahoo.com,918 767 030,77788114788081,5432170907
+300,Mateo,Jurado,M,1989-08-16,licenciatura,docente,luz.cepeda@yahoo.com,921-937-583,98693826030230,8329231691
+301,Raúl,Olmos,F,1980-08-01,licenciatura,docente,bernardo.medina@hotmail.com,964 006 810,43321310557221,3556340447
+302,Débora,Barrientos,M,1985-08-12,licenciatura,docente,magdalena.hernandes@yahoo.com,960707976,25151399850669,4180929273
+303,Ana María,Laboy,M,1998-07-05,licenciatura,docente,elvira.partida@gmail.com,952-615-199,94231574816270,8135905148
+304,Francisco,Campos,M,1985-11-25,licenciatura,docente,alejandra.mireles@yahoo.com,920-865-816,51928574051671,6829810845
+305,Victoria,Villarreal,F,1983-09-06,licenciatura,docente,joaquín.corral@yahoo.com,900.863.458,48690551513029,7084726902
+306,Bernardo,Alonzo,F,1999-02-20,licenciatura,docente,luis.laboy@hotmail.com,991475024,88061757465371,4138989483
+307,Daniel,Montenegro,M,1996-10-31,licenciatura,docente,víctor.montoya@hotmail.com,983186797,68175875662704,9527963677
+308,Pedro,Flores,F,1987-06-22,licenciatura,docente,sancho.adorno@gmail.com,995-208-758,99402175860471,3692748988
+309,Ana,Carrillo,M,1997-07-31,licenciatura,docente,eloisa.vigil@gmail.com,985836482,90763459886552,7361947416
+310,Cecilia,Bañuelos,M,1983-03-20,licenciatura,docente,débora.anguiano@yahoo.com,959944940,71122403121880,8894256952
+311,Pablo,Carrion,M,1984-08-04,licenciatura,docente,pilar.solano@gmail.com,950 863 796,21948546626431,2112922438
+312,Mónica,Sanches,M,1998-11-20,licenciatura,docente,andrés.zavala@yahoo.com,948-327-230,94203743310087,5752586443
+313,Lorenzo,Dueñas,M,1998-06-21,licenciatura,docente,yolanda.becerra@gmail.com,950426911,12178828925501,6181670624
+314,Ernesto,Gil,F,1989-07-27,licenciatura,docente,gloria.hernández@yahoo.com,952 622 597,61571882995071,4692764610
+315,Julio,Sanches,M,1994-12-09,licenciatura,docente,octavio.alcaraz@gmail.com,994082805,50020886061745,4853136454
+316,Andrés,Barraza,M,1988-08-30,licenciatura,docente,carolina.carrera@hotmail.com,918-178-859,95661350578516,2835703997
+317,Marilu,Godínez,M,1989-04-28,licenciatura,docente,joaquín.orosco@gmail.com,952 759 534,53899860477702,6076911453
+318,Armando,Quiñones,M,1994-03-23,licenciatura,docente,leticia.matías@hotmail.com,903 551 500,43974718530434,7596676451
+319,Diana,Olivárez,F,1991-04-16,licenciatura,docente,pedro.cano@gmail.com,993031264,87187499514077,4108866406
+320,Antonio,Curiel,M,1992-07-07,licenciatura,docente,ramón.atencio@hotmail.com,999 270 768,64470322562538,1570690292
+321,Patricio,González,M,1979-10-20,licenciatura,docente,manuela.sisneros@yahoo.com,903.139.785,73575029091939,4697371823
+322,Lola,Garrido,M,1987-05-31,licenciatura,docente,josé.téllez@hotmail.com,981 117 005,10672531092039,1585257199
+323,César,Bahena,F,1990-04-30,licenciatura,docente,alejandra.madrigal@hotmail.com,928394305,40437375780557,9597412764
+324,Martín,Montañez,F,1980-08-15,licenciatura,docente,francisca.borrego@gmail.com,947087623,94635697642072,2044902695
+325,Andrea,de Jesús,F,1998-09-21,licenciatura,docente,marcela.apodaca@gmail.com,975-931-334,97481894074587,2724629202
+326,Alfonso,Olivo,F,1989-01-20,licenciatura,docente,antonio.rael@yahoo.com,990.817.136,94017426241432,9284729851
+327,Lilia,Velázquez,F,1997-07-20,licenciatura,docente,daniela.de anda@hotmail.com,933-758-222,38113823959570,2999861892
+328,Benjamín,Carrasco,F,1987-06-12,licenciatura,docente,andrea.toledo@gmail.com,994-083-777,87145987977782,8040533641
+329,Natalia,Reséndez,M,1993-08-07,licenciatura,docente,ángela.salazar@hotmail.com,992 195 832,38305237638082,4136666425
+330,Esperanza,Salinas,F,1992-05-08,licenciatura,docente,isabel.curiel@yahoo.com,934.486.231,16295037705274,8253293598
+331,Diana,Camacho,M,1988-03-06,licenciatura,docente,ramona.garay@hotmail.com,948.870.963,51869431405341,9521959051
+332,Lucas,Díaz,F,1980-04-30,licenciatura,docente,francisco.cornejo@hotmail.com,946-643-412,74210978317542,4286483752
+333,Manuel,Godoy,F,1998-12-04,licenciatura,docente,bernardo.yáñez@yahoo.com,916803938,35207092003815,5559390879
+334,Débora,Alarcón,F,1996-04-07,licenciatura,docente,jesús.almonte@yahoo.com,950-730-282,64081566704091,6419672950
+335,Adán,Granado,F,1998-11-10,licenciatura,docente,margarita.méndez@gmail.com,977428772,16056138094987,7510481774
+336,Ana Luisa,Soliz,F,1986-04-25,licenciatura,docente,daniela.leiva@hotmail.com,961427845,32467586780823,2042995859
+337,Ana,Nieto,M,1987-06-26,licenciatura,docente,andrés.briones@hotmail.com,911-832-918,12199149834382,7990917403
+338,Hugo,Amaya,F,1991-07-28,licenciatura,docente,andrés.solorio@hotmail.com,924 947 737,29952701538354,7825027183
+339,Pedro,Cervántez,M,1998-11-05,licenciatura,docente,graciela.coronado@yahoo.com,907605730,71473885588160,5264770787
+340,Mariana,Cruz,M,1996-08-23,licenciatura,docente,emilia.curiel@hotmail.com,923.468.852,68089986347663,7662946240
+341,María Cristina,Treviño,F,1996-06-23,licenciatura,docente,marcos.chapa@yahoo.com,950640385,48011883475614,3602699890
+342,Óscar,Haro,M,1995-06-19,licenciatura,docente,lucas.ruiz@yahoo.com,905 956 215,73182333850977,9576981696
+343,Víctor,Longoria,F,1982-03-28,licenciatura,docente,teresa.bustos@gmail.com,920-708-223,81615191858871,3277407638
+344,Claudio,Rocha,F,1980-07-09,licenciatura,docente,benjamín.zarate@hotmail.com,979 384 208,56912958040745,6927489069
+345,Pablo,Solorio,M,1989-12-08,licenciatura,docente,conchita.lugo@gmail.com,923-813-253,79556145562651,7700055729
+346,Tomás,Chapa,F,1997-06-16,licenciatura,docente,blanca.zamora@gmail.com,952-208-922,92459829890462,9531131318
+347,Víctor,Garrido,F,1990-08-26,licenciatura,docente,nicolás.farías@yahoo.com,951751632,44949567999768,1769022552
+348,Benito,Aragón,F,1981-10-01,licenciatura,docente,micaela.pedroza@yahoo.com,989-433-579,28407047030813,9498029637
+349,Cristina,Zamudio,M,1981-05-08,licenciatura,docente,diego.palacios@yahoo.com,982881418,36921374559190,6688155387
+350,Berta,Ávila,M,1985-03-25,licenciatura,docente,agustín.montalvo@gmail.com,974.201.829,57754378970643,9803692982
+351,Germán,Zayas,F,1993-08-28,licenciatura,docente,ignacio.valdez@gmail.com,989.833.111,34206562102412,2119713170
+352,Irene,Delafuente,M,1986-10-01,licenciatura,docente,amalia.naranjo@hotmail.com,983 761 922,10218784786816,4122575621
+353,Josefina,Candelaria,M,1995-08-28,licenciatura,docente,javier.olmos@hotmail.com,906 487 892,78674281365859,4388418207
+354,Laura,Rivero,M,1983-04-25,licenciatura,docente,pedro.cantú@gmail.com,974 454 559,61330415243010,6220066556
+355,Guadalupe,Nazario,F,1985-12-24,licenciatura,docente,francisco.almanza@hotmail.com,995.752.115,40560680611405,3061410560
+356,Gabriel,Vigil,M,1980-04-28,licenciatura,docente,elena.alanis@hotmail.com,962891179,22272745843212,9358858975
+357,Carla,Zavala,F,1983-12-10,licenciatura,docente,isabel.linares@hotmail.com,917531623,87160047945036,3352345710
+358,Pilar,Gracia,F,1993-07-05,licenciatura,docente,andrés.torres@gmail.com,969 596 361,44272687231277,6684247977
+359,Claudia,Briseño,F,1981-03-03,licenciatura,docente,lucas.ornelas@hotmail.com,946578690,87737619609601,7716367260
+360,Carla,Alicea,M,1983-06-24,licenciatura,docente,teresa.pedroza@yahoo.com,975 328 326,67616258436641,7480130526
+361,Mercedes,Granado,F,1994-08-14,licenciatura,docente,mariano.bahena@yahoo.com,999-553-406,73084601508229,5994228811
+362,Verónica,Pabón,M,1982-07-18,licenciatura,docente,mateo.avilés@gmail.com,996-761-853,14927957449334,3284917501
+363,Florencia,Escamilla,M,1983-10-05,licenciatura,docente,diana.riojas@hotmail.com,947-892-873,25889631455689,1904184279
+364,Carolina,Méndez,F,1998-11-17,licenciatura,docente,arturo.velázquez@gmail.com,993.761.477,55379656700171,6935328012
+365,Francisco,Coronado,M,1998-02-03,licenciatura,docente,pablo.roque@gmail.com,927.064.538,11008825361951,3005225732
+366,Mónica,Salinas,F,1984-09-01,licenciatura,docente,conchita.linares@hotmail.com,966812790,74283569837506,9388371937
+367,Isabela,Torres,M,1988-02-13,licenciatura,docente,francisco.rosas@gmail.com,964 157 961,98836849847957,4172669456
+368,Carlos,Medina,F,1994-05-26,licenciatura,docente,rocio.carrera@yahoo.com,918-851-456,24869481461766,6779985169
+369,Cristina,Ortega,F,1995-04-06,licenciatura,docente,miguel.quiñónez@hotmail.com,944.164.423,71203485398592,7069794400
+370,Jacobo,Murillo,F,1979-12-12,licenciatura,docente,caridad.rivero@gmail.com,938-185-089,60917003612707,3888555689
+371,Beatriz,Esparza,F,1983-11-11,licenciatura,docente,marcos.botello@hotmail.com,911752023,99223114890426,1619303742
+372,Ariadna,Coronado,F,1994-05-17,licenciatura,docente,elsa.pacheco@yahoo.com,925938592,85720779280000,3421911069
+373,Samuel,Santillán,M,1991-07-16,licenciatura,docente,maría luisa.cepeda@hotmail.com,924.421.144,54911230237011,1675029881
+374,Hugo,Beltrán,M,1986-06-01,licenciatura,docente,manuel.benítez@yahoo.com,989 946 171,55358964481333,7216168471
+375,Manuela,Arteaga,M,1991-12-19,licenciatura,docente,ana luisa.razo@gmail.com,930 975 818,39097384336583,5728227312
+376,Jorge Luis,Tapia,F,1981-09-29,licenciatura,docente,ricardo.saldivar@hotmail.com,950 413 948,37421249384350,5533437192
+377,José,Gaitán,M,1985-06-08,licenciatura,docente,germán.castillo@gmail.com,911 791 773,88804575396988,6915441485
+378,Rocio,Mendoza,F,1990-09-04,licenciatura,docente,sara.cintrón@yahoo.com,981 524 554,76621343265993,8911782307
+379,Catalina,Carrion,M,1994-02-23,licenciatura,docente,luisa.ocasio@yahoo.com,943736490,25243432848020,6342653816
+380,Marisol,León,F,1992-10-12,licenciatura,docente,elvira.carrillo@yahoo.com,957739945,86873560383745,3048309175
+381,Verónica,Medina,M,1987-04-20,licenciatura,docente,felipe.apodaca@hotmail.com,920.126.439,62315893567567,3796074384
+382,Lucia,García,M,1988-12-18,licenciatura,docente,mayte.delgadillo@yahoo.com,913.211.475,92222335030209,7076302586
+383,Marcela,Zavala,F,1993-09-03,licenciatura,docente,silvia.quiñones@yahoo.com,906 377 455,17743943435420,8108889443
+384,Bernardo,Baeza,M,1984-06-22,licenciatura,docente,gerardo.figueroa@gmail.com,959-562-303,19488083149514,4617756865
+385,Clara,Chapa,F,1981-09-12,licenciatura,docente,david.ordóñez@hotmail.com,940 537 979,27106790624962,1530230212
+386,Hernán,Posada,F,1983-03-24,licenciatura,docente,mónica.prado@yahoo.com,954.255.702,25163765530171,6192462021
+387,Lorena,Garibay,M,1999-05-15,licenciatura,docente,agustín.alcaraz@hotmail.com,957.986.461,57713535925644,1684604716
+388,Emilia,Hidalgo,M,1991-10-16,licenciatura,docente,agustín.verdugo@hotmail.com,978-670-416,53400995756251,9131344467
+389,Cecilia,Muñoz,F,1987-11-21,licenciatura,docente,mariana.tamayo@yahoo.com,999.279.993,44817800877408,2873478283
+390,Roberto,Carranza,M,1985-03-12,licenciatura,docente,ester.fajardo@gmail.com,946.778.423,88726238744818,3645273771
+391,Jorge,Arguello,M,1990-02-24,licenciatura,docente,gilberto.pichardo@gmail.com,983.778.525,64884133127196,2421299762
+392,Rosario,Maldonado,F,1989-05-24,licenciatura,docente,josé emilio.urbina@hotmail.com,977.785.036,95496707289441,4034529361
+393,Octavio,Jasso,M,1994-05-31,licenciatura,docente,concepción.leal@hotmail.com,917.097.584,68121120632767,9706190139
+394,Marcos,Ceja,F,1990-02-04,licenciatura,docente,federico.espinosa@gmail.com,905.305.750,60619109865441,6994930841
+395,Maricarmen,Negrete,M,1992-04-05,licenciatura,docente,clara.narváez@yahoo.com,921453643,38548069594398,6532520423
+396,Hernán,Morales,F,1992-07-04,licenciatura,docente,diego.carrion@gmail.com,931540297,25383566265487,4385809855
+397,Elisa,Merino,M,1988-08-10,licenciatura,docente,rodrigo.zelaya@yahoo.com,944130826,55759201824308,8948236723
+398,Verónica,Páez,F,1985-08-11,licenciatura,docente,eva.alba@hotmail.com,993947836,22745758167081,8934640961
+399,Santiago,Véliz,M,1980-10-07,licenciatura,docente,antonia.bétancourt@gmail.com,912 585 430,66097770392533,9209181257
+400,Cristina,Ávalos,F,1990-06-06,licenciatura,docente,pilar.paredes@gmail.com,930 091 536,48968045570476,1720485215
+401,Miguel,Ponce,F,1992-03-31,licenciatura,docente,elisa.arredondo@hotmail.com,932.010.008,32625224279237,5034503278
+402,Carla,Razo,F,1991-11-07,licenciatura,docente,maría eugenia.arredondo@hotmail.com,901376995,23498366646581,7554009057
+403,Norma,Pagan,M,1986-04-02,licenciatura,docente,felipe.quiñónez@hotmail.com,953 533 746,68691137774728,6719474838
+404,Dolores,Escobedo,M,1993-06-04,licenciatura,docente,josé.robles@hotmail.com,933 797 980,31988207238480,6382752667
+405,Gloria,Polanco,F,1990-07-29,licenciatura,docente,virginia.caldera@gmail.com,986337690,37153594887775,2243394262
+406,Antonio,Calvillo,F,1985-09-03,licenciatura,docente,dorotea.tovar@gmail.com,932605422,56983173986588,9122075462
+407,Guadalupe,Cordero,F,1985-12-15,licenciatura,docente,felipe.cruz@gmail.com,940791617,31964600042838,4324114492
+408,Lola,Guzmán,M,1997-05-29,licenciatura,docente,anita.ponce@yahoo.com,944.177.970,39926110909675,7764796837
+409,Virginia,Valdés,F,1998-01-16,licenciatura,docente,marisol.cortés@yahoo.com,960.827.579,19389795747914,1374382555
+410,Eduardo,Cavazos,F,1985-03-11,licenciatura,docente,tomás.caraballo@gmail.com,986646561,11159219107911,8037914128
+411,Hernán,Arreola,M,1992-07-21,licenciatura,docente,guillermo.sandoval@yahoo.com,975815660,88517360329036,6352934416
+412,José Luis,Covarrubias,F,1996-12-26,licenciatura,docente,juana.jurado@gmail.com,979221397,19978754591623,5480200156
+413,Alejandro,Guerra,F,1996-05-07,licenciatura,docente,rafael.otero@gmail.com,957-719-181,98518180796890,1615836356
+414,Verónica,Pacheco,F,1998-11-12,licenciatura,docente,isabel.sedillo@gmail.com,959-692-541,76829368531028,6870529592
+415,Timoteo,Pizarro,M,1991-08-21,licenciatura,docente,diana.cuellar@yahoo.com,985-371-159,15439212079541,6768319424
+416,Susana,Alva,M,1989-10-31,licenciatura,docente,rafael.juárez@hotmail.com,960.718.063,61732700378063,4082973042
+417,Andrés,Cisneros,M,1982-12-17,licenciatura,docente,mariano.sauceda@yahoo.com,958.138.439,80387907361895,1016144965
+418,Lourdes,Cruz,F,1995-07-27,licenciatura,docente,emilio.arevalo@yahoo.com,927-055-443,74373036558906,3040523215
+419,Esperanza,Ontiveros,F,1991-03-10,licenciatura,docente,yolanda.montemayor@hotmail.com,963.458.768,52159307661746,6535818122
+420,María,Colón,M,1993-10-15,licenciatura,docente,rodrigo.botello@gmail.com,968611626,98111190498127,9252429644
+421,María Luisa,Rolón,M,1981-01-05,licenciatura,docente,olivia.benavídez@yahoo.com,967.926.335,46343645976447,7008340433
+422,Marcela,Cuellar,M,1985-01-23,licenciatura,docente,gloria.coronado@gmail.com,913-101-646,65472155535277,8301109000
+423,Marilu,Partida,M,1998-03-07,licenciatura,docente,maría.galván@hotmail.com,984.553.298,88479592163338,3612509230
+424,Leonor,Avilés,F,1995-10-08,licenciatura,docente,diana.gaona@yahoo.com,942-500-055,36269423045374,8565951530
+425,Elisa,Arias,M,1997-11-15,licenciatura,docente,armando.sarabia@yahoo.com,948.660.522,28168989934938,6679471922
+426,Reina,Baca,F,1982-08-11,licenciatura,docente,luisa.sanabria@gmail.com,970523206,54849331794884,2094706553
+427,Ricardo,Tovar,M,1998-01-10,licenciatura,docente,bernardo.zayas@gmail.com,979 227 201,54259594775363,5100975905
+428,Olivia,Gálvez,F,1984-01-16,licenciatura,docente,ariadna.galarza@hotmail.com,980-441-568,56427295025401,5219587592
+429,Blanca,Morales,M,1987-01-07,licenciatura,docente,caridad.tello@gmail.com,973 649 847,86959872963470,4061035095
+430,Manuela,Escamilla,F,1985-09-07,licenciatura,docente,gabriel.ochoa@yahoo.com,946-735-371,14907530184410,2860575390
+431,Luis,Reynoso,M,1997-07-28,licenciatura,docente,germán.juárez@hotmail.com,973 893 986,29774323366898,1452261635
+432,Florencia,Valles,F,1991-11-12,licenciatura,docente,ramón.espinoza@gmail.com,951.348.902,41036227043218,2451566276
+433,Julio,Ordóñez,F,1993-10-16,licenciatura,docente,elena.madrid@yahoo.com,929-014-031,26743546237956,1037388141
+434,Santiago,Lemus,F,1992-12-24,licenciatura,docente,jacobo.nieto@hotmail.com,994-017-463,78272604334514,9812332959
+435,Guillermina,Terrazas,F,1988-02-13,licenciatura,docente,pilar.pedraza@gmail.com,966.052.839,50168885072207,2599949396
+436,Jaime,Menéndez,M,1997-10-14,licenciatura,docente,antonio.alba@gmail.com,959254118,99408783502729,2782911489
+437,Gerardo,Jasso,F,1995-09-19,licenciatura,docente,francisco.brito@yahoo.com,961-962-269,13556673884715,1600562993
+438,Alejandro,Páez,M,1996-07-09,licenciatura,docente,concepción.lira@yahoo.com,992234246,37807668880350,4355152468
+439,Mayte,Arevalo,M,1992-10-05,licenciatura,docente,jorge.peralta@yahoo.com,963228515,73057134261261,8478371426
+440,Estela,Sierra,F,1981-11-09,licenciatura,docente,leonor.lara@hotmail.com,944.715.575,85879230555034,7946898507
+441,Martín,Meraz,M,1982-09-03,licenciatura,docente,maría soledad.vergara@gmail.com,998.894.072,85156732551275,9511580548
+442,Florencia,Melgar,F,1997-01-25,licenciatura,docente,francisca.esparza@gmail.com,921-567-855,28749495198049,2356715397
+443,Mariano,Saldaña,M,1990-03-28,licenciatura,docente,cecilia.vaca@hotmail.com,971405152,72532886266729,8341966982
+444,Mario,Dueñas,M,1994-01-27,licenciatura,docente,miguel.sanches@hotmail.com,960.470.026,15259462349623,8047919484
+445,Óscar,Peres,F,1990-08-14,licenciatura,docente,césar.valladares@yahoo.com,956.376.380,56583739355613,2403223616
+446,María,Palacios,F,1983-11-26,licenciatura,docente,marisol.chacón@hotmail.com,965 372 937,72221647737748,3341028470
+447,Marcela,Porras,F,1997-09-22,licenciatura,docente,eloisa.delagarza@hotmail.com,989.038.160,34189160827008,6682152849
+448,Diana,Villareal,M,1995-12-22,licenciatura,docente,cecilia.chavarría@hotmail.com,941.339.621,77115291062935,7117047902
+449,Miguel Ángel,Galindo,M,1982-01-30,licenciatura,docente,daniel.ramón@yahoo.com,940.222.321,44124031284282,4964821579
+450,Silvia,Orosco,F,1998-02-01,licenciatura,docente,claudio.tamayo@gmail.com,908-625-924,25195879330118,4478753700
+451,Eloisa,Escalante,M,1998-09-28,licenciatura,docente,isabela.lucio@hotmail.com,959.618.170,27286401674214,5934368129
+452,Rocio,Alcántar,M,1991-08-28,licenciatura,docente,sergio.longoria@gmail.com,997 632 511,87789397760496,2690598290
+453,Diego,Vallejo,M,1982-09-28,licenciatura,docente,josé luis.ayala@yahoo.com,926-885-867,47545655795217,9295540970
+454,Leticia,Leiva,F,1998-05-08,licenciatura,docente,maría soledad.de anda@gmail.com,995-083-148,31506200566311,5169821897
+455,Ramón,Moreno,F,1990-11-05,licenciatura,docente,juana.barrera@hotmail.com,987.991.452,68092650070388,2257584504
+456,Anita,Hinojosa,F,1982-08-09,licenciatura,docente,micaela.tovar@gmail.com,910.353.229,85861914263040,4723865009
+457,Lorena,Saiz,F,1986-10-11,licenciatura,docente,rubén.montez@gmail.com,950.616.549,92681793750332,5813293911
+458,Alberto,Soria,M,1999-06-01,licenciatura,docente,berta.olmos@yahoo.com,965-410-223,83819503698279,5886570022
+459,Claudia,Arriaga,F,1982-11-23,licenciatura,docente,rubén.abreu@hotmail.com,915.723.032,22349678853729,8927908334
+460,Carla,Correa,M,1984-07-06,licenciatura,docente,armando.ceja@hotmail.com,908 152 956,23879701572562,1278608561
+461,Norma,Prieto,M,1990-01-12,licenciatura,docente,josé maría.galarza@gmail.com,983 571 756,83114110521749,4573907606
+462,Guillermina,Farías,M,1998-08-07,licenciatura,docente,antonio.espinal@gmail.com,976.215.988,69786116023195,8277204737
+463,Marilu,Villanueva,M,1989-01-21,licenciatura,docente,virginia.elizondo@gmail.com,927104121,74166320680341,3142986533
+464,Martín,Vázquez,M,1996-07-14,licenciatura,docente,óscar.bahena@gmail.com,904-234-459,55877848549823,7842659978
+465,Daniel,Hernández,F,1999-01-24,licenciatura,docente,conchita.gonzales@hotmail.com,982.390.362,40377744523237,1869625732
+466,María Luisa,Delgadillo,M,1984-12-02,licenciatura,docente,leticia.aragón@hotmail.com,997070623,95040932252640,2970699116
+467,Emilia,Linares,M,1997-11-28,licenciatura,docente,alberto.nazario@gmail.com,952-253-399,47816285500986,2263056350
+468,Bernardo,Valdés,F,1999-04-15,licenciatura,docente,luis.sánchez@gmail.com,936.386.616,94484027728307,3327634713
+469,Gilberto,Amador,F,1994-02-16,licenciatura,docente,mónica.quezada@gmail.com,925-335-907,59106496989469,2318338353
+470,Rosalia,Gutiérrez,M,1991-01-14,licenciatura,docente,josé.véliz@hotmail.com,945-595-461,10061409930307,1958277961
+471,Cristina,Chapa,F,1980-05-16,licenciatura,docente,lucas.vaca@gmail.com,918 006 736,60478505552020,4801624138
+472,Carlos,Arroyo,M,1989-06-19,licenciatura,docente,benito.carrasco@yahoo.com,980-534-908,71779469179058,5249973060
+473,Adela,Feliciano,M,1990-02-24,licenciatura,docente,micaela.iglesias@yahoo.com,903-405-233,55614755340745,9911574896
+474,Ángela,Barrera,F,1980-08-09,licenciatura,docente,mariano.segura@hotmail.com,953 817 668,67094685904223,4222187659
+475,Olivia,Abrego,M,1985-03-09,licenciatura,docente,jorge luis.miranda@gmail.com,995534381,70377016468754,2938017604
+476,Concepción,Valadez,F,1989-01-24,licenciatura,docente,elvira.cano@yahoo.com,966 336 442,72465167275930,1835642719
+477,Susana,Mesa,F,1982-01-01,licenciatura,docente,pedro.casillas@hotmail.com,954.917.105,40813019465154,1228440492
+478,Alfonso,Barragán,M,1993-08-09,licenciatura,docente,diego.ibarra@gmail.com,936372441,36354145229128,9436436671
+479,Francisco,Arellano,M,1985-10-31,licenciatura,docente,sonia.cardona@hotmail.com,990 579 387,36677218513317,4670009278
+480,César,Padilla,M,1988-09-09,licenciatura,docente,victoria.casas@yahoo.com,984-245-725,65454505158955,4394074831
+481,David,Menéndez,M,1997-12-18,licenciatura,docente,guillermina.moreno@hotmail.com,977534527,52309353948195,5336681981
+482,Jorge,Ureña,F,1983-04-15,licenciatura,docente,daniel.rubio@hotmail.com,984243929,63315225241000,4270053835
+483,Marilu,Delapaz,M,1997-07-12,licenciatura,docente,hernán.arias@yahoo.com,933-273-686,71327397974352,2312163960
+484,Blanca,Rivero,F,1989-01-28,licenciatura,docente,manuel.ordóñez@gmail.com,903823405,94492382400836,5565044973
+485,Alfonso,Bueno,F,1989-09-01,licenciatura,docente,mayte.tamez@yahoo.com,943-177-618,91569608138622,7127176828
+486,Maricarmen,Robles,M,1984-04-20,licenciatura,docente,mariana.mascareñas@hotmail.com,925 447 523,96551642308904,2746996725
+487,Silvia,Rascón,M,1982-01-08,licenciatura,docente,pilar.aponte@yahoo.com,932 253 537,85886371648001,4263387128
+488,Gabriela,Miranda,M,1990-02-09,licenciatura,docente,emilia.jaimes@gmail.com,917.559.785,82823794966896,4247186733
+489,Ernesto,Barragán,M,1990-11-14,licenciatura,docente,dolores.manzanares@hotmail.com,903 240 564,50045538235983,5599139027
+490,Alberto,Barajas,M,1980-10-22,licenciatura,docente,jesús.rodríguez@yahoo.com,952 816 271,17911295928338,9655483687
+491,Miguel Ángel,Menchaca,M,1981-06-28,licenciatura,docente,gustavo.mares@gmail.com,917-265-494,20650222355616,7991408822
+492,Víctor,Ortega,M,1993-09-28,licenciatura,docente,gerardo.salcido@hotmail.com,936-455-193,21959094595233,3736557696
+493,Rosalia,Gamboa,M,1990-02-06,licenciatura,docente,carlos.vásquez@yahoo.com,988944904,33935371282353,3112761880
+494,Catalina,Villareal,F,1989-04-16,licenciatura,docente,carolina.montemayor@gmail.com,941.846.654,89679179236405,8247930225
+495,Bernardo,Soliz,F,1996-07-23,licenciatura,docente,ernesto.guerrero@yahoo.com,901 496 805,12116483896165,6087215511
+496,Andrea,Castañeda,F,1987-01-29,licenciatura,docente,juan carlos.negrete@hotmail.com,908.362.256,33925739129915,4613390839
+497,Micaela,Herrera,F,1997-07-17,licenciatura,docente,josé emilio.osorio@gmail.com,931 853 782,61454933452880,5685539036
+498,Julio César,Flores,F,1996-05-09,licenciatura,docente,mariano.mayorga@yahoo.com,992731147,31890167757832,2855498447
+499,Pedro,Valdivia,F,1988-12-14,licenciatura,docente,alicia.arriaga@gmail.com,901-642-100,93529764440687,3218145437
+500,Yolanda,Meléndez,F,1987-02-23,licenciatura,docente,mariana.salinas@gmail.com,968 301 430,28941831966805,3373257897
+501,Elsa,Quintanilla,M,1980-08-28,licenciatura,docente,alfredo.alejandro@gmail.com,957.014.040,53352043035551,2844555135
+502,Sancho,Roybal,M,1992-03-20,licenciatura,docente,guillermo.bustamante@gmail.com,998 599 452,51186114729234,6950147117
+503,Marco Antonio,Ozuna,F,1984-08-17,licenciatura,docente,luz.montalvo@yahoo.com,937.191.289,58365407315602,9392587229
+504,Marta,Robledo,M,1994-06-04,licenciatura,docente,benjamín.zelaya@gmail.com,935-219-545,92752288449851,3091302102
+505,Clemente,Yáñez,F,1981-02-21,licenciatura,docente,marcela.cruz@hotmail.com,901.448.812,35946171254091,3646092998
+506,Julio César,Zambrano,M,1987-02-25,licenciatura,docente,yolanda.orozco@gmail.com,989 747 438,13267256298889,8130515881
+507,Ernesto,Reséndez,M,1990-05-19,licenciatura,docente,ramiro.valdés@gmail.com,985-945-079,81524882030192,5720401073
+508,Graciela,Barrientos,M,1987-10-03,licenciatura,docente,isabel.arias@gmail.com,974-054-877,22106122800183,3910116429
+509,Eva,Villarreal,M,1987-08-16,licenciatura,docente,gilberto.villegas@gmail.com,938.820.731,99677888251631,5399937199
+510,Gustavo,Tamez,M,1993-01-31,licenciatura,docente,josefina.frías@hotmail.com,973 726 969,70290892116281,3230438936
+511,Rebeca,Alcántar,F,1981-03-19,licenciatura,docente,dolores.arteaga@hotmail.com,918.910.187,41585343003083,2040270126
+512,Ramiro,López,F,1994-06-08,licenciatura,docente,maría.sanches@gmail.com,956-737-827,72244869797265,9173608459
+513,Graciela,Manzanares,F,1983-02-28,licenciatura,docente,joaquín.molina@hotmail.com,991555143,93276603801098,9976301444
+514,María del Carmen,Ávila,F,1991-09-02,licenciatura,docente,olivia.villanueva@gmail.com,904233772,41433933344168,2930289612
+515,María Teresa,Pacheco,M,1992-08-22,licenciatura,docente,germán.pagan@hotmail.com,902.799.495,80460521638682,5545011673
+516,Dorotea,Meza,F,1998-05-08,licenciatura,docente,mariana.chavarría@gmail.com,986-435-677,95036451615189,2402007333
+517,Raquel,Tovar,F,1980-06-22,licenciatura,docente,maría luisa.arenas@hotmail.com,935.082.813,96912746976814,5476076847
+518,Diana,Quezada,F,1988-10-19,licenciatura,docente,catalina.delao@yahoo.com,922-158-216,19808882502008,1057377940
+519,Caridad,Nazario,M,1984-10-21,licenciatura,docente,sara.delagarza@gmail.com,969111207,13171908755290,3512321942
+520,Gonzalo,Mota,F,1986-08-21,licenciatura,docente,rosario.tamayo@yahoo.com,989284037,76318705573973,1184694504
+521,Marco Antonio,Piña,M,1982-02-11,licenciatura,docente,pablo.saiz@gmail.com,951-415-638,42202420937594,7379910350
+522,Alfonso,Batista,F,1981-04-05,licenciatura,docente,óscar.niño@yahoo.com,919734402,37701297496845,1296204548
+523,Gloria,Ontiveros,M,1992-07-21,licenciatura,docente,graciela.carmona@hotmail.com,929 127 051,73490004678695,8801021921
+524,Miguel,Arroyo,M,1998-12-14,licenciatura,docente,elvira.aguayo@hotmail.com,918.807.411,80748013084398,5624931390
+525,Alfredo,Báez,M,1982-09-07,licenciatura,docente,lucas.caraballo@gmail.com,931 284 177,64647906974026,3065144454
+526,Leonor,Alva,M,1997-04-29,licenciatura,docente,magdalena.gracia@hotmail.com,978 297 567,27627790695023,5515604214
+527,Adán,Mercado,M,1990-03-01,licenciatura,docente,elena.vergara@hotmail.com,901.120.629,86551360103435,9089547585
+528,Reina,Espino,M,1983-07-27,licenciatura,docente,jorge luis.saldaña@yahoo.com,931 400 008,89060382473999,8765382740
+529,Gloria,Meraz,M,1984-10-10,licenciatura,docente,gonzalo.menéndez@gmail.com,932-116-110,85457703358765,8104725916
+530,Claudio,Benítez,F,1995-01-18,licenciatura,docente,verónica.briones@hotmail.com,940-418-042,39742353394290,6501815633
+531,Maricarmen,Muñiz,M,1998-11-02,licenciatura,docente,jorge luis.robledo@yahoo.com,921 012 997,18280299981078,1257010169
+532,Javier,Valverde,F,1981-03-29,licenciatura,docente,maría cristina.duarte@yahoo.com,908 027 284,47405572326391,6497671290
+533,Timoteo,Delacrúz,F,1991-12-02,licenciatura,docente,guadalupe.vergara@hotmail.com,907-778-588,19471931332119,7846776514
+534,Esperanza,Quintana,F,1997-10-22,licenciatura,docente,clara.ferrer@yahoo.com,963.260.315,27762970318100,4461390601
+535,Cecilia,Villalobos,M,1986-06-02,licenciatura,docente,gilberto.pineda@gmail.com,900.332.317,62442754217391,4764654337
+536,Víctor,Saldaña,M,1986-05-28,licenciatura,docente,jesús.leyva@hotmail.com,994.535.159,30039424855614,4561354570
+537,Elvira,Caraballo,F,1989-11-21,licenciatura,docente,reina.salinas@gmail.com,930-966-565,27361637640153,7600715439
+538,Homero,Ibarra,F,1982-05-22,licenciatura,docente,sonia.rangel@hotmail.com,970.233.701,66608104924967,7758937959
+539,Fernando,Enríquez,F,1988-12-15,licenciatura,docente,cristian.curiel@hotmail.com,901.837.738,37248515828650,9477564725
+540,Bernardo,Oquendo,M,1991-03-20,licenciatura,docente,ana luisa.ybarra@yahoo.com,971-114-141,95831484889239,2975896333
+541,Lucas,Anguiano,F,1984-07-01,licenciatura,docente,benjamín.cervántez@yahoo.com,933.284.584,96671076854478,9311819506
+542,Armando,Cuellar,F,1990-01-16,licenciatura,docente,isabela.esquibel@hotmail.com,985.955.074,60516106131248,4432056715
+543,Clemente,Casanova,F,1990-05-13,licenciatura,docente,timoteo.ávalos@yahoo.com,954 100 437,79698786580891,5436878028
+544,Maricarmen,Cruz,M,1992-07-02,licenciatura,docente,alicia.barraza@yahoo.com,932 980 360,53487903386068,4888525147
+545,Gilberto,Segovia,F,1990-06-25,licenciatura,docente,luisa.herrera@yahoo.com,990.962.391,95189776930775,2436102408
+546,Jacobo,Arteaga,M,1981-04-28,licenciatura,docente,alberto.sepúlveda@gmail.com,942-129-027,57874260083598,3512088879
+547,Concepción,Olvera,F,1987-05-23,licenciatura,docente,jorge luis.mejía@yahoo.com,987 876 753,95341452293737,1263629579
+548,Pablo,Becerra,F,1993-10-16,licenciatura,docente,alfredo.arreola@gmail.com,915-191-115,73395412820010,1593074689
+549,Silvia,Preciado,M,1988-12-12,licenciatura,docente,octavio.guevara@yahoo.com,999 320 840,96790011052169,6113736620
+550,Carla,Muñoz,M,1995-07-30,licenciatura,docente,pedro.alemán@hotmail.com,927571330,70175273563103,9398401198
+551,Joaquín,Zarate,F,1987-06-20,licenciatura,docente,gabriel.quiñones@gmail.com,930.477.105,31844776432422,8935527994
+552,Alejandro,Tovar,M,1989-11-22,licenciatura,docente,inés.madrigal@hotmail.com,928-282-523,13908951833015,8466979112
+553,Guadalupe,Casillas,M,1996-03-07,licenciatura,docente,claudia.alaniz@hotmail.com,982.083.258,95692149980068,5065775215
+554,Federico,Reyes,F,1984-08-20,licenciatura,docente,josé eduardo.rosas@hotmail.com,954 618 988,82585404572063,3686768197
+555,Elisa,Figueroa,M,1989-07-22,licenciatura,docente,elsa.serrano@gmail.com,992-933-377,49270711424798,2912241112
+556,Ana,Gallegos,F,1988-09-29,licenciatura,docente,eloisa.nevárez@gmail.com,938742248,42357280767554,2883511475
+557,Marco Antonio,Pineda,M,1988-09-17,licenciatura,docente,clemente.roque@yahoo.com,966-872-677,80457771281864,8798052744
+558,Blanca,Padilla,M,1983-05-13,licenciatura,docente,ester.guerrero@gmail.com,962.537.950,43224808500243,2023556249
+559,Ramón,Villareal,F,1998-01-28,licenciatura,docente,jerónimo.orosco@yahoo.com,944.091.757,25808667056687,7750386955
+560,Juan Carlos,Sánchez,M,1994-09-14,licenciatura,docente,armando.casárez@hotmail.com,972-204-081,57155524300354,7433464040
+561,Catalina,Luevano,M,1996-05-05,licenciatura,docente,ramona.jurado@gmail.com,955.558.868,18715841757796,7671048685
+562,Jesús,Armendáriz,M,1989-04-09,licenciatura,docente,guillermo.espinoza@hotmail.com,919707318,64578425240422,3600117369
+563,Ramona,Girón,F,1995-06-22,licenciatura,docente,virginia.lovato@yahoo.com,962-433-302,92472641376600,3221757787
+564,José Eduardo,Ceballos,F,1986-08-11,licenciatura,docente,felipe.ibarra@yahoo.com,958.397.309,51420099312417,8551227476
+565,Antonia,Vázquez,M,1985-06-02,licenciatura,docente,rafael.prado@yahoo.com,948517519,10567053002991,1280225187
+566,Armando,Gil,M,1983-11-13,licenciatura,docente,soledad.guerra@yahoo.com,965-037-286,46853527107345,6401648100
+567,Leonor,Pulido,M,1983-04-14,licenciatura,docente,isabela.zúñiga@hotmail.com,970-301-531,33998118306196,2343677343
+568,Débora,Olivárez,M,1990-05-21,licenciatura,docente,barbara.valladares@yahoo.com,987358452,20038504459458,5179286760
+569,Salvador,Padrón,F,1987-08-12,licenciatura,docente,marco antonio.solano@gmail.com,958248789,78027159620186,5322798162
+570,José,Zavala,F,1983-03-05,licenciatura,docente,martín.madrigal@gmail.com,991-326-573,75936694449024,8936014926
+571,Carmen,Aponte,M,1987-05-30,licenciatura,docente,horacio.cabrera@gmail.com,927.873.148,84177843735785,8668442424
+572,Lourdes,Olmos,F,1990-07-22,licenciatura,docente,ramón.escobedo@yahoo.com,902.944.997,71748996577344,3910272104
+573,Verónica,Corral,M,1995-03-08,licenciatura,docente,juan carlos.roque@hotmail.com,934958503,84965893040837,6630625309
+574,Rodrigo,Cardenas,F,1982-04-09,licenciatura,docente,agustín.leal@gmail.com,962063571,39186949348083,8321794079
+575,Verónica,Escamilla,F,1998-11-11,licenciatura,docente,césar.montaño@yahoo.com,984.211.931,85558808309180,7146954621
+576,Marisol,Ramón,M,1983-03-24,licenciatura,docente,ernesto.angulo@gmail.com,940-252-027,50996326566905,6889633286
+577,Soledad,Luna,M,1989-12-30,licenciatura,docente,martín.molina@yahoo.com,932 581 390,94816227568498,6055166640
+578,Eva,Arroyo,M,1997-12-18,licenciatura,docente,marco antonio.vela@hotmail.com,957-359-273,89136343643554,2011238269
+579,Lilia,Castro,F,1986-10-03,licenciatura,docente,ester.tovar@gmail.com,956102611,94356579341416,3782995318
+580,Rosalia,Arredondo,M,1985-08-12,licenciatura,docente,yolanda.martínez@hotmail.com,916-551-607,27361851978956,3952559434
+581,Elena,Juárez,F,1991-07-19,licenciatura,docente,josé emilio.barrera@hotmail.com,915-710-324,43221146755319,9626364571
+582,Luis Miguel,Niño,F,1996-09-15,licenciatura,docente,verónica.bermúdez@gmail.com,964295248,21318227055908,2549706828
+583,Juana,Tejeda,F,1994-02-25,licenciatura,docente,marilu.rivas@yahoo.com,912.313.031,70212775205646,4309193677
+584,Ester,Cabrera,M,1997-10-20,licenciatura,docente,ramón.batista@yahoo.com,925392296,39250563661983,2747306549
+585,Gonzalo,Prieto,M,1998-09-01,licenciatura,docente,elena.jaime@yahoo.com,972.743.444,59396018491831,1678082782
+586,Luisa,Velásquez,M,1989-04-13,licenciatura,docente,caridad.baca@hotmail.com,928-458-409,14116895475474,1382417779
+587,Mercedes,Serna,M,1986-11-21,licenciatura,docente,federico.galarza@gmail.com,931-161-833,55168606782383,3584976641
+588,Mariano,Cantú,M,1995-01-14,licenciatura,docente,tomás.laboy@hotmail.com,911 791 599,56605735043619,6699771046
+589,Raquel,Jaime,F,1981-05-01,licenciatura,docente,roberto.rojas@yahoo.com,908-789-689,56582725161107,1695155397
+590,Federico,Enríquez,M,1994-08-20,licenciatura,docente,ignacio.madrigal@hotmail.com,950719715,30210094928615,9596195168
+591,Virginia,Peña,M,1981-11-28,licenciatura,docente,emilia.velásquez@yahoo.com,949.439.369,28863779394680,9131834333
+592,Maricarmen,Lucio,F,1992-11-15,licenciatura,docente,nicolás.terán@gmail.com,940-955-038,99820913424860,5913003261
+593,Ángela,Zúñiga,M,1998-11-13,licenciatura,docente,mateo.orosco@yahoo.com,978-894-314,41768370661341,4698476534
+594,Salvador,Zayas,M,1985-05-28,licenciatura,docente,jacobo.oquendo@hotmail.com,918 904 683,99019265599275,1697894863
+595,Lorena,Esquivel,F,1983-01-05,licenciatura,docente,maría josé.mata@hotmail.com,982 031 938,25636255606365,4815319081
+596,Pilar,Luevano,F,1992-03-10,licenciatura,docente,amalia.gaytán@yahoo.com,992-121-363,49755559667804,2945090558
+597,Francisca,Mejía,M,1986-01-26,licenciatura,docente,antonia.benítez@gmail.com,924 855 406,62564453312654,9839040201
+598,Vicente,Barragán,M,1984-08-21,licenciatura,docente,eduardo.ceballos@gmail.com,977 970 358,33826962250193,1451367111
+599,Barbara,Echevarría,M,1999-04-17,licenciatura,docente,carolina.lozano@yahoo.com,967603206,82882063555049,5200543648
+600,Gustavo,Quintanilla,F,1991-09-25,licenciatura,docente,sancho.solorzano@yahoo.com,917-202-164,91652211412431,6114745336
+601,Emilio,Nava,F,1982-12-02,licenciatura,docente,arturo.lucero@gmail.com,977-670-026,98334406390200,7708079320
+602,Claudia,Beltrán,F,1985-06-13,licenciatura,docente,cristina.rosales@hotmail.com,940096186,39938427183069,5293657829
+603,Jacobo,Cortés,F,1990-12-17,licenciatura,docente,julio.villaseñor@yahoo.com,938 778 805,72224976889428,1519872801
+604,Ricardo,Herrera,F,1993-06-04,licenciatura,docente,maría luisa.barreto@gmail.com,905 455 317,33255878253244,3026495270
+605,Felipe,Cadena,F,1981-06-29,licenciatura,docente,gabriel.martínez@hotmail.com,984085511,26205354959934,1520341463
+606,Cecilia,Arteaga,F,1987-03-21,licenciatura,docente,carolina.casares@gmail.com,999-925-883,60254143823946,1722671837
+607,Ana Luisa,Rodarte,M,1998-09-12,licenciatura,docente,víctor.riojas@hotmail.com,900.822.670,86997868926679,9724146730
+608,Sergio,Quiñones,F,1996-10-01,licenciatura,docente,adán.romero@hotmail.com,953 257 008,95132436788746,1532793686
+609,Raúl,Camacho,F,1980-03-18,licenciatura,docente,marco antonio.delarosa@yahoo.com,919 000 841,89760244741827,4568066213
+610,Roberto,Carvajal,F,1988-03-25,licenciatura,docente,esteban.rivera@gmail.com,993-107-459,72018952472107,3905028158
+611,Hernán,Feliciano,M,1994-01-27,licenciatura,docente,dolores.solorio@hotmail.com,984287001,66635793705532,4595044482
+612,Ana Luisa,Salinas,F,1981-12-03,licenciatura,docente,andrea.almanza@gmail.com,915753989,91382295329858,5144219848
+613,Lourdes,Sanabria,M,1992-09-16,licenciatura,docente,daniel.lozada@gmail.com,911-899-125,59966101913056,3759206563
+614,Horacio,Tórrez,F,1996-12-29,licenciatura,docente,gregorio.villa@gmail.com,916-081-138,53829594035728,6613844341
+615,Raquel,Sáenz,M,1982-07-28,licenciatura,docente,ángela.santacruz@hotmail.com,952-075-373,13933737453754,8122437173
+616,Manuel,Arenas,M,1993-03-15,licenciatura,docente,berta.valverde@hotmail.com,913221570,57749965937683,6785052761
+617,Alberto,Castro,F,1987-09-27,licenciatura,docente,teresa.guerrero@yahoo.com,975.722.086,36473105030298,7896839492
+618,Hernán,Marín,F,1979-10-14,licenciatura,docente,rebeca.cantú@hotmail.com,913 360 747,25642747333292,4252298005
+619,Federico,Ceballos,M,1993-06-03,licenciatura,docente,sancho.chávez@gmail.com,949.521.551,99123754689535,7695821766
+620,María Elena,Perales,M,1994-09-06,licenciatura,docente,barbara.herrera@yahoo.com,937.869.448,26003439252508,4225330913
+621,José Eduardo,Araña,M,1998-10-26,licenciatura,docente,maría del carmen.tejeda@gmail.com,942-232-678,20549523575059,4860531174
+622,Reina,Arce,M,1999-01-17,licenciatura,docente,joaquín.badillo@hotmail.com,925.994.491,24460879068341,5487366742
+623,Jerónimo,Acosta,F,1997-11-05,licenciatura,docente,gloria.arroyo@yahoo.com,968 722 054,85950821602702,9154577055
+624,Guadalupe,Jáquez,M,1988-10-29,licenciatura,docente,benito.casárez@gmail.com,921-380-954,92538509014501,6029202905

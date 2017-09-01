@@ -11,7 +11,6 @@ import org.apache.spark.SparkContext
 import org.apache.spark.graphx._
 import org.apache.spark.rdd.RDD
 import com.datastax.spark.connector._
-import org.apache.spark.sql.SQLContext
 import org.scalatest.FunSuite
 import org.junit.runner.RunWith
 import org.scalatest.junit.JUnitRunner
@@ -56,17 +55,21 @@ class CassandraTest extends FunSuite {
     // For each 'curso' do...
     grouped.foreach((curso: (String, Iterable[Interaccion])) => {
       // Source
-      val origenes: Seq[(VertexId, String)] = curso._2.groupBy(
-        interaccion => interaccion.idorigen.toLong).
-        toSeq.map(f => (f._1, f._1.toString))
+      val origenes: Seq[(VertexId, (String, String))] = curso._2.groupBy(
+        interaccion => (interaccion.idorigen, interaccion.tipoorigen)).
+        toSeq.map(f => (f._1._1.toLong, f._1))
 
       // Destination
-      val destinos: Seq[(VertexId, String)] = curso._2.groupBy(
-        interaccion => interaccion.iddestino.toLong).
-        toSeq.map(f => (f._1, f._1.toString))
+      val destinos: Seq[(VertexId, (String, String))] = curso._2
+        .groupBy(
+          interaccion => (interaccion.iddestino, interaccion.tipodestino)
+        ).toSeq
+        .map {
+          f => (f._1._1.toLong, f._1)
+        }
 
       // (Source+destination).distinct = nodes
-      val nodos: RDD[(VertexId, String)] = sc.parallelize(origenes.union(destinos).distinct)
+      val nodos: RDD[(VertexId, (String, String))] = sc.parallelize(origenes.union(destinos).distinct)
 
       // Edges
       val aristas: RDD[Edge[Interaccion]] = sc.parallelize(curso._2.map(
@@ -74,7 +77,7 @@ class CassandraTest extends FunSuite {
           interaccion.idorigen.toLong, interaccion.iddestino.toLong, interaccion)).toSeq)
 
       // Graph creation
-      val graph: Graph[String, Interaccion] = Graph(nodos, aristas)
+      val graph: Graph[(String, String), Interaccion] = Graph(nodos, aristas)
 
       //val graph: Graph[String, Interaccion] = Graph.fromEdges(aristas, defaultValue = "1")
 
@@ -83,6 +86,7 @@ class CassandraTest extends FunSuite {
       println(s"Grupo ${curso._1} -> ${graph.numVertices} vértices -> ${graph.numEdges} aristas")
 
 
+      //TODO Usar triplets para lograr el objetivo
       // Triplets
       /*
       graph.triplets.map(

@@ -1,7 +1,5 @@
 package model
 
-import java.util.Date
-
 import com.datastax.spark.connector.mapper.DefaultColumnMapper
 
 /**
