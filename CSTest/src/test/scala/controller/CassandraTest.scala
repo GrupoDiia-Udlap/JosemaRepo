@@ -86,7 +86,6 @@ class CassandraTest extends FunSuite {
       println(s"Grupo ${curso._1} -> ${graph.numVertices} vértices -> ${graph.numEdges} aristas")
 
 
-      //TODO Usar triplets para lograr el objetivo
       // Triplets
       /*
       graph.triplets.map(
