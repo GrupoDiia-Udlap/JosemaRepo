@@ -25,10 +25,10 @@ libraryDependencies += "org.slf4j" % "slf4j-simple" % "1.7.25" % "test"
 libraryDependencies += "io.dropwizard.metrics" % "metrics-core" % "3.2.2"
 
 // https://mvnrepository.com/artifact/org.apache.spark/spark-core_2.10
-libraryDependencies += "org.apache.spark" %% "spark-core" % "2.1.1"
+libraryDependencies += "org.apache.spark" %% "spark-core" % "2.2.0"
 
 // https://mvnrepository.com/artifact/org.apache.spark/spark-sql_2.10
-libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.1.1"
+libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.2.0"
 
 
 // https://mvnrepository.com/artifact/org.graphstream/gs-algo
@@ -47,3 +47,6 @@ libraryDependencies += "org.apache.poi" % "poi-ooxml" % "3.11"
 
 // https://mvnrepository.com/artifact/com.github.javafaker/javafaker
 libraryDependencies += "com.github.javafaker" % "javafaker" % "0.13"
+
+// https://mvnrepository.com/artifact/org.apache.spark/spark-graphx_2.10
+libraryDependencies += "org.apache.spark" %% "spark-graphx" % "2.2.0"

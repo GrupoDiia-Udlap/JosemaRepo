@@ -22,7 +22,7 @@ public class ReadFromCassandra {
                 .master("local[*]")
                 .appName("CassandraExample")
                 //Cassandra configuration
-                .config("spark.cassandra.connection.host", "127.0.0.1")
+                .config("spark.cassandra.connection.host", "localhost")
                 .config("spark.cassandra.auth.username", "cassandra")
                 .config("spark.cassandra.auth.password", "cassandra")
                 //.config("spark.sql.warehouse.dir", "file:///C:/spark-warehouse")// Set warehouse path
