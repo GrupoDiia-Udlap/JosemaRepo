@@ -98,6 +98,7 @@ object PostgresqlConnection extends App {
   //SQL Spark (Postgresql)
   import spark.implicits._
 
+
   val alumnoDF: DataFrame = spark.read
     .format("jdbc")
     .option("url", "jdbc:postgresql://localhost/diia?user=postgres&password=12345678")

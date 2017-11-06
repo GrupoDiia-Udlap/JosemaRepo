@@ -81,7 +81,7 @@ class CassandraTest extends FunSuite {
 
       //val graph: Graph[String, Interaccion] = Graph.fromEdges(aristas, defaultValue = "1")
 
-      graphs +:= (curso._1, graph)
+      //graphs +:= (curso._1, graph)
 
       println(s"Grupo ${curso._1} -> ${graph.numVertices} vértices -> ${graph.numEdges} aristas")
 
