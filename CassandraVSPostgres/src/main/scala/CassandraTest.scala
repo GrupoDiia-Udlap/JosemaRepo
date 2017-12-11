@@ -44,7 +44,7 @@ object CassandraTest extends App {
 
     // Write interactions DataFrame in format jdbc, specifying the url, the table and the driver used,
     // besides the savemode.
-    // Uncomment if need to test PostgreSQL
+    // Uncomment to test PostgreSQL
 
     /*
     interactions.write
