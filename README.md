@@ -8,4 +8,4 @@
 
 **CassandraVSPostgres**: _Comparing cassandra and postgresql to store the interactions._
 
-**PageRankCalc**: _Examples of the PageRank API requests.
+**PageRankCalc**: _Examples of the PageRank API requests._
