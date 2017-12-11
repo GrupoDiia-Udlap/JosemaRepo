@@ -7,3 +7,5 @@
 **services**: _Play Framework application example, using spark and actors._
 
 **CassandraVSPostgres**: _Comparing cassandra and postgresql to store the interactions._
+
+**PageRankCalc**: _Examples of the PageRank API requests.
